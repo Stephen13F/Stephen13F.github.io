@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Me](/assets/Rio.jpg)
+![Me](/assets/io.jpg)
 
 I'm Stephen Franzese, a masters student studying chemistry at Melbourne Uni. This is a collection of my tips and techniques, mostly focused on organic synthetic chemistry.
 
