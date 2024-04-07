@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using a Rotavap for Recrystallisations"
-date:   2024-04-07 20:00:00 +1000
+date:   2024-04-07 21:45:00 +1000
 author: "Stephen Franzese"
 categories: work-up
 ---
