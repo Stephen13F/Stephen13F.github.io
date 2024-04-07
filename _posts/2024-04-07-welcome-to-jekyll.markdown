@@ -1,29 +1,44 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-04-07 15:36:11 +1000
-categories: jekyll update
+title:  "Using a Rotavap for Recrystallisations"
+date:   2024-04-07 20:00:00 +1000
+author: "Stephen Franzese"
+categories: work-up
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Recrystallisation is my favourite method of purification: it's simple to do and doesn't need much set-up. Plus crystals look cool. Its only problems are it can be lossy and it doesn't work amazingly for small-scale reactions. Also it can take a while since you have to wait for the crystals to grow, but picking the right eluent for a column or DCVC plug takes a while too and you can do other work while you wait, unlike chromatography.
 
-Jekyll requires blog post files to be named according to the following format:
+The basic idea is you dissolve your crude product in a solvent it dissolves badly in, then you do something so that the solubility limit is reached and crystals of your product form. To get the product to dissolve, typically you use a huge amount of solvent or heat it up a lot, then you either reduce the volume by evaporating solvent, lower the temperature or do both*.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Removing solvent, heating... If you read the title you can probably guess where I'm going with this: a rotary evaporator can do both of these things at the same time and it makes recryses even better. I'll explain exactly how I do this, but first a few preliminary notes.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<h1>Selecting your solvent</h1>
+This method is assumes only one solvent: no mixtures*. As said above, you want the solvent to be able to dissolve your product, but not very well. If a solution becomes at all coloured but you still have particles in it, then that solvent should suffice. I would avoid high-boiling point solvents (DMSO, DMAc, DMF etc) because if you use too much solvent you can't remove it easily. A solvent with a very low boiling point isn't as much of a problem because in that case you would add a lot of solvent and let it slowly evaporate off with little or no heating. Another option is to use a very small amount of a good (or at least not bad) solvent and then heat that up. The goal is to use the least amount of solvent possible. Too much solvent is wasteful, cumbersome and will probably lead to lower yields.
 
-Jekyll also offers powerful support for code snippets:
+If you have a good idea of what your by-products are, or if you know you have starting material or catalysts still, then you can also think what solvent would dissolve them better than it would your product. If you have a solvent that only dissolves the unwanted materials and leaves your desired product almost entirely undissolved, then you don't really need a recrys: just put it onto a filter and wash it or centrifuge it and decant the liquid. Alternatively, you could try precipitation*.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Typically, any solvent that dissolves your product should work. It's just a matter of how well it will work.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<h1>Preparing the Solution</h1>
+Now that you have your solvent chosen, put your crude material into a round bottom flask and add a minimal amount of solvent. How much is minimal? It's hard to say, but that's why we are using the rotavap. I typically will add enough that only a few grains are still visibly undissolved. It will depend on the scale. If you want to be very precise, you can estimate a solubility limit at room temperature by weighing out a small amount of material and adding solvet dropwise (tare the vial with the material before adding solvent so you can weigh it and determine the volume from the mass; using the mass to determine the volume is more accurate than measuring cylinders). With the knowledge of the solubility limit, you can work out the max amount of solvent you would need at room temperature to dissolve your product. You will not use this unless you are using a low BP solvent and want it to evaporate. I would use this number to just give me a sense of things. Honestly, I don't ever really bother with calculating it though. The point of using a rotavap is that I don't need to worry about this sort of thing. the only reason it is good to have a sense of solubility is so you know how big the rbf should be, but even then you don't need to fuss over that too much.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<h1>Using the Rotavap</h1>
+Now, we can talk about the Rotavap. This should tie up some loose threads that I have alluded to in the previous paragraphs. Once you understand this, it will make selecting a solvent and preparing the solution easier.
+
+You get your solution that is not fully dissolved and you heat it up while rotating. Make sure your vacuum is on: your flask can fall into the bath even with a keck clip. A vacuum pressure of 800-900 mbar is enough, but you can go lower as long as you're aware of what conditions cause your solvent to evaporate. You can make the bath very hot: I once used 75 degrees celsius for methanol. You don't want the solution to bubble vigorously (bump) though. Rotating avoids bumping and also helps us by agitating the solution. If you notice that the product is not dissolving fully even at temperatures close to (or indeed, slightly above) your solvent's BP, then just cut the vacuum, stop the rotation (stop rotating gradually, especially at high temperature or low pressure) and remove the flask. Then add more solvent and try it again. If your flask is too small, then move it into a bigger flask (do not fill beyond halfway: this is to make bumping less of an issue and to prevent your solution getting sucked into the bump guard or solvent trap). In this way we have obviated the need to worry about flask size selection: we can easily change to a bigger rbf (just be sure to rinse the flask well, especially if you have undissolved bits stuck to it).
+
+If you have added too much solvent, then all you have to do is increase the vacuum and evaporate off some solvent. Thus we can dissolve our material in more than the minimal amount at room temperature, and then evaporate it off to reach the minimum amount. You can heat it while evaporating slowly to get really hot, high concentration solutions. Your product should still be dissolved and the volume will be far less than you could have reached at room temp. If you start to see product crashing out of solution, you can easily add more solvent and heating again. I even use solvent collected in the bump guard for this, both to avoid waste and because it's warmer than that from the bottle.
+
+You may think that if we want crystals to form, we should just evaporate until we see crystals. It may work, but there is the risk of the crystals forming too fast. This means they will be very small and hard to collect (e.g. they can get through the filter or get stuck in the filter). Slow crystallisation gives larger crystals. There is also the risk that if you evaporate too far you could get impurity crashing out too. Typically, I remove solvent until I see something crash out and then I add some solvent back in and re-dissolve and evaporate until I am just above the volume where I saw crystallisation.
+
+I would not use the rotavap to recrystalise from a very low BP solvent (e.g. petroleum spirits). Actually, I would, but I wouldn't heat it very much or for very long and I definitely wouldn't go below 800 mbar. After some heating, I would then let the flask sit open to the air (or with some sort of cover and air holes, like aluminium foil pricked with a needle, if I were leaving it overnight). Once crystals start to form I would seal it up to prevent further evaporation.
+
+If you heated your solution in order to get it to fully dissolve, or you have removed solvent from an already-dissolved mixture while heating and it is still dissolved (or both), then you can just set the flask down and let it cool to room temperature. If crystals do not form, then you can put it in the fridge or an ice bath. The hotter you made the solution, the more important it is you let it cool at room temperature: you do not need the temperature to be that cold to see crystals forming. If crystals don't form, scratching the side of the flask with a spatula is a trick you can try. It scratches off tiny pieces of glass and these act as nucleation sites for your crystals. You could also add a seed crystal, but you would need to have already purified your product once to have that. Let it sit and avoid agitating the solution. Sometimes crystals just take time.
+
+Once your crystals have formed, filter them, using the same poor solvent you used for your recrys (or if you used a good solvent, then use a bad solvent instead or chill the good solvent before use). Avoid excess washing so you don't accidentally dissolve your product. Putting your solvent in a flask and cooling it in an ice bath also helps since your impurities should still wash out but your product won't. Let it dry and then collect it. Dry under high vacuum if need be and you're done.
+
+I honestly cannot imagine doing recrys without a rotavap; it feels like it was made for it. I hope it makes recryses even easier for you.
+
+Have fun, don't die.
+Stephen
+
+*You may be thinking 'what about mixed solvent recrystallisations?' I will discuss that in a later post. I prefer to consider this more akin to precipitation and would rather discuss them together.
