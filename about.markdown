@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Me](/assets/Rio.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Stephen Franzese, a masters student studying chemistry at Melbourne Uni. This is a collection of my tips and techniques, mostly focused on organic synthetic chemistry.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I made this blog to record what I have learned over the years. I hope you gain something useful in your time here.
 
+<h1>My Research</h1>
+I am a member of the Wong Group which is a part of the Australian Centre of Excellence in [Exciton Science](https://excitonscience.com/users/stephen-franzese). My research focuses on solvatochromic dyes: both synthesising them and analysing their properties.
 
-[jekyll-organization]: https://github.com/jekyll
+<h1>Contact Details</h1>
+Email: stephenfranzese@gmail.com
