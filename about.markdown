@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="C:\Stephen13F.github.io\assets\me.jpg" alt="io" width="206" height="363">
+![io](me.jpg){: width="33%"}
 
 I'm Stephen Franzese, a masters student studying chemistry at Melbourne Uni. This is a collection of my tips and techniques, mostly focused on organic synthetic chemistry.
 
