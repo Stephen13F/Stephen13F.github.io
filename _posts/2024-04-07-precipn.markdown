@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Precipitations and Mixed Solvent Recrystallisations"
+date:   2024-04-08 21:45:00 +1000
+author: "Stephen Franzese"
+categories: work-up
+---
+Ah, precipitation, recrystallisation's poor cousin. It's my second favourite purification technique. Now, technically speaking, you could say recrystallisation is a type of precipitation. I'm using it here to describe when you add something to a solution of crude material to cause pure product to come out of solution. This is not a rigorous definition, it's just so I can just describe it as a separate class of purification.
+
+The most basic way is to add an antisolvent: a solvent your product dissolves poorly in. Suppose it dissolves well in methanol but not water, you use enough methanol to get it fully dissolved and then add water until you see the solution become cloudy and solids form. Keep adding until you can no longer see anything crash out. The best way to check is to drop the antisolvent (with a pipette or squeeze bottle) onto the side of the glass (I'd use a beaker for this, or an rbf). You will be able to see as it enters the surface of the solution. If solid forms as it touches the solution, then you should keep adding more. Don't add too much to avoid waste, to make it easier to clean up and on the off chance your product is sparingly soluble in your antisolvent (but this isn't usually a big deal).
+
+Precipitation isn't as good as recrys because it's less controlled and can give smaller particle sizes. On the other hand, it is way faster. It is probably the fastest and easiest purification technique. The biggest fault it has though is that it only works if your impurity is soluble in the antisolvent.
+
+Typically, I will use water as the antisolvent for products that aren't very polar and petroleum spirirts or diethyl ether for more polar compounds. You should of course ensure your solvent and antisolvent are miscible. Otherwise you are just going to get two layers (which could work, but then you'd be doing a separartion which is a whole other thing). You can play around with things though: as long as the two liquids satisfy the requirements laid out above, it should work. Also, make sure the two liquids don't react when mixed, but hopefully that is obvious.
+
+An alternative way of precipitating is by exploiting acid-base chemistry. If an acid is deprotonated or a base is protonated, then it will become charged or neutral (e.g. acetate (charged) <-> acetic acid (neutral)). If the compound is more charged, it should be more soluble in polar solvents, while less charged will dissolve better in less polar solvents. The typical situation is a compound that is soluble in water at high or low pH but which crashes out when it is neutralised. It is also possible to protonate or deprotonate a compound that is really poorly soluble in any solvent, and then recrystallise it as a salt (the conjugate base/acid of the acid/base you added will be the counterion).
+
+Precipitation is very effective for removing water-soluble contaminants that are also soluble in organic solvents. If the impurity is only water soluble (e.g. NaCl), then I would do a sep instead, but you could do a precipitation then too if you think it'll be easier.
+
+One other note: because precipitation can give such small particles, typically I use nylon membrane filters (they have finer pore sizes) instead of standard paper ones. If I'm using a very acidic or basic solution, I'll use glass filters. Please look up the compatability of filter papers with solvents before you use them. Alternatively you can centrifuge your product and decant off the supernatant. Add more antisolvent, shake well, centrifuge again, decant again. This way you wash out all of the undesired material. Alternatively you can redissolve and reprecipitate instead of just washing. The more you wash out impurities the purer it will be, but the more times you do this the lower your yield will be.
+
+<h1>Mixed Solvent Recrys</h1>
+This is like if recrystallisation and precipitation had a child... wait, if they're cousins, then...
+
+Let's move on. In a mixed solvent recrys you add an antisolvent to a (relatively) good solvent, like in precipitation. The difference is you typically have heated the solution before adding the antisolvent and you don't add as much antisolvent: it's just enough to get the crystallisation to start. It also takes longer as a result since you want the crystals to form slowly.
+
+Honestly, I don't think I've really done many of these since undergraduate, but I do have one trick. I stumbled on this by accident when we ran out of pet. spirits and I had to use heptane instead. If you dissolve your compound fully in a mixture of a good and bad solvent, you can then evaporate off the good solvent if its BP is lower than your antisolvent. Pet. spirits has a really low BP, so it's not a great antisolvent for this, but heptane has very similar polarity and is much less volatile. As you evaporate off the solvent (either with a rotavap or by leaving it open to air), the antisolvent will become the main constituent of the mixture and your product will start to precipitate. The rotavap is good because with heating you can keep the product dissolved and get the antisolvent proportion higher by evaporating more good solvent off. Why would you do this instead of a normal recrys? Perhaps your compound dissolves better in a mix of solvents, or perhaps your impurity doesn't dissolve well in the antisolvent and you would get it crystallising too. Mixed solvent recryses let you use a good solvent to keep unwanted material dissolved.
+
+If a normal recrys doesn't work, and you can't get a precipitation to work either, then I would usually advise a different technique (e.g. chromatography) before trying a mixed solvent recrys. It's not so much that it's hard, it's more that I doubt it would work if both of those failed. If a precipitation kind of works (e.g. you get product out but an impurity too), then I would consider it. It's a case-by-case thing. Use your judgement. Sometimes a typically easy purification method is actually harder; it depends on your specific problem.
+
+Have fun, don't die.
+Stephen
