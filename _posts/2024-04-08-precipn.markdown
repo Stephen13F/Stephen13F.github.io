@@ -29,4 +29,5 @@ Honestly, I don't think I've really done many of these since undergraduate, but 
 If a normal recrys doesn't work, and you can't get a precipitation to work either, then I would usually advise a different technique (e.g. chromatography) before trying a mixed solvent recrys. It's not so much that it's hard, it's more that I doubt it would work if both of those failed. If a precipitation kind of works (e.g. you get product out but an impurity too), then I would consider it. It's a case-by-case thing. Use your judgement. Sometimes a typically easy purification method is actually harder; it depends on your specific problem.
 
 Have fun, don't die.
+
 Stephen
