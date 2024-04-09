@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Solvent Polarity"
+date:   2024-04-09 21:45:00 +1000
+author: "Stephen Franzese"
+categories: solvents
+---
+If someone tells you they understand solvent polarity, they don't understand it.
+
+Solvent polarity is so easy to appreciate. Even the alchemists knew about it (they're attributed with coining the phrase 'like dissolves like', or, as they said it back in the day, 'similia similibus solventur'). The idea is that some things dissolve in some solvents better than others and those that mix well are similar in some property we call polarity.
+
+IUPAC says  solvent polarity is the "overall solvation capability (solvation power) of a solvent toward solutes, which depends on the action of all possible intermolecular interactions between solute ions or molecules and solvent molecules, excluding interactions leading to definite chemical alterations of the ions or molecules of the solute". I understand that as well as you probably do and I study polarity.
+
+Some people try to define polarity based on dipoles or dielectric constants (aka relative permittivities), but there's a lot more going on in solution (as the IUPAC definition alludes to) that these don't cover. Solvents with H-bonds are considered very polar, but acetonitrile has a higher dielectric constant and dipole moment than methanol. I would not call acetonitrile more polar than methanol. The reason is H-bonds are really important to dissolving polar stuff (these are termed 'specific interactions'. 'Non-specific interactions' are things like dispersion forces or dipol-dipole interactions), but having a H-bond does not imply a high dipole or dielectric constant.
+
+In the absence of a good physical parameter, people started making empirical polarity scales based on the behaviours of probe molecules. There's a fair bit of history, but I'll skip to the big event: 1963, a German guy called Christian Reichardt publishes his synthesis of a bunch of dye molecules (about 40 in all). Number 30 (called, predictably, Betaine 30), is found to be extremely solvatochromic: it changes colour when the solvent polarity changes. Essentially, it is a zwitterion that is more stable in polar solvents but it has an excited state that has a smaller dipole. As you reduce the solvent polarity, the zwitterionic ground state becomes less stable (its energy increases) but the excited state's energy isn't affected as much. This causes the energy gap between the two states to decrease and the colour it absorbs to reach that excited state changes (it absorbs longer wavelength/short frequency/low energy light in less polar solvents). If you calculate that energy gap, then you can order the solvents with a polarity scale. This scale is called the E<sub>T</sub>(30) scale (E<sub>T</sub> stands for electronic transition energy and 30 stands for Betaine 30).
+
+| ![solvatochromism](/assets/solvatochromism.jpg) 
+|:--:| 
+| *The right diagram shows what I mean about the energy of Betaine 30. If you had positive solvatochromism (the left diagram) you get the opposite situation and the wavelengths absorbed would increase as polarity increases.* |
+
+Great, we at least know which solvents are more polar than other solvents. Wrong. Betaine 30 (which became known as Reichardt's Dye) is just one solvatochromic dye. There are so many different dyes and they all interact with solvents differently. Some are more sensitive to H-bonds, some less sensitive. We end up with many different scales of solvent polarity: the order is dye-dependent.
+
+Reichardt's Dye is a very good dye for many reasons (stability, solubility, colour being visible etc), so its use is so widespread partly because of this, not so much because it gives a 'true' polarity scale.
+
+| ![B30](/assets/RD-clean.jpg) 
+|:--:| 
+| *Some Reichardt's Dye I made dissolved in different solvents. As you can observe, it is very pretty. From left to right, the solvents used are methanol, ethanol, isopropanol, DMSO, acetone, pyridine and THF.* |
+
+Due to all of this, I have reached the opinion that we can only use any measure of polarity as a guide. You must really consider the properties of the solvent and the interactions it can have with your solute. Solvents are more than just their polarity.
+
+Polarity scales do work quite well for similar families of solvents (e.g. alcohols). Even just looking at H-bond donating (HBD or protic) solvents separately from non-H-bond donating (non-HBD or aprotic) solvents tends to give more consistency between scales (the E<sub>T</sub>(30) correlates reasonably well to dielectric constants if you consider HBD and non-HBD solvents separately, but lumped together you can't see any trend).
+
+I plan to make a few posts about different solvents or solvent families and give some details about them, their uses and any other bits of info I feel are relevant for practical applications. Our lab has about fifteen solvents on hand for day-to-day use, and there are hundreds more that exist (I've used over 70 in my research), so the choice of which to use can easily bewilder the beginner chemist. I hope I can provide a guide to take some of the guesswork out of this.
+
+As for which solvent is the best? Well, that is an easy question to answer: the best solvent is elbow grease.
+
+Have fun; don't die.
+
+Stephen
