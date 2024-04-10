@@ -4,6 +4,7 @@ title:  "Solvent Polarity"
 date:   2024-04-09 21:45:00 +1000
 author: "Stephen Franzese"
 categories: solvents
+tags: solvent polarity
 ---
 If someone tells you they understand solvent polarity, they don't understand it.
 
@@ -35,6 +36,5 @@ I plan to make a few posts about different solvents or solvent families and give
 
 As for which solvent is the best? Well, that is an easy question to answer: the best solvent is elbow grease.
 
-Have fun; don't die.
-
+Have fun; don't die.\
 Stephen

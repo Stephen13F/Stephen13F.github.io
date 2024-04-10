@@ -4,6 +4,7 @@ title:  "Precipitations and Mixed Solvent Recrystallisations"
 date:   2024-04-08 21:18:00 +1000
 author: "Stephen Franzese"
 categories: work-up
+tags: work-up rotavap
 ---
 Ah, precipitation, recrystallisation's poor cousin. It's my second favourite purification technique. Now, technically speaking, you could say recrystallisation is a type of precipitation. I'm using it here to describe when you add something to a solution of crude material to cause pure product to come out of solution. This is not a rigorous definition, it's just so I can just describe it as a separate class of purification.
 
@@ -24,10 +25,11 @@ This is like if recrystallisation and precipitation had a child... wait, if they
 
 Let's move on. In a mixed solvent recrys you add an antisolvent to a (relatively) good solvent, like in precipitation. The difference is you typically have heated the solution before adding the antisolvent and you don't add as much antisolvent: it's just enough to get the crystallisation to start. It also takes longer as a result since you want the crystals to form slowly.
 
-Honestly, I don't think I've really done many of these since undergraduate, but I do have one trick. I stumbled on this by accident when we ran out of pet. spirits and I had to use heptane instead. If you dissolve your compound fully in a mixture of a good and bad solvent, you can then evaporate off the good solvent if its BP is lower than your antisolvent. Pet. spirits has a really low BP, so it's not a great antisolvent for this, but heptane has very similar polarity and is much less volatile. As you evaporate off the solvent (either with a rotavap or by leaving it open to air), the antisolvent will become the main constituent of the mixture and your product will start to precipitate. The rotavap is good because with heating you can keep the product dissolved and get the antisolvent proportion higher by evaporating more good solvent off. Why would you do this instead of a normal recrys? Perhaps your compound dissolves better in a mix of solvents, or perhaps your impurity doesn't dissolve well in the antisolvent and you would get it crystallising too. Mixed solvent recryses let you use a good solvent to keep unwanted material dissolved.
+You can also add the antisolvent very gently and slowly so as to form a layer on top of the good solvent (provided their miscibilities are not great). This is called a layered addition. The antisolvent will slowly seep into the good solvent and you will get precipitation at a slower rate, thereby getting better crystals.
+
+Honestly, I don't think I've really done many mixed-solvennt recryses since undergraduate, but I do have one trick. I stumbled on this by accident when we ran out of pet. spirits and I had to use heptane instead. If you dissolve your compound fully in a mixture of a good and bad solvent, you can then evaporate off the good solvent if its BP is lower than your antisolvent. Pet. spirits has a really low BP, so it's not a great antisolvent for this, but heptane has very similar polarity and is much less volatile. As you evaporate off the solvent (either with a rotavap or by leaving it open to air), the antisolvent will become the main constituent of the mixture and your product will start to precipitate. The rotavap is good because with heating you can keep the product dissolved and get the antisolvent proportion higher by evaporating more good solvent off. Why would you do this instead of a normal recrys? Perhaps your compound dissolves better in a mix of solvents, or perhaps your impurity doesn't dissolve well in the antisolvent and you would get it crystallising too. Mixed solvent recryses let you use a good solvent to keep unwanted material dissolved.
 
 If a normal recrys doesn't work, and you can't get a precipitation to work either, then I would usually advise a different technique (e.g. chromatography) before trying a mixed solvent recrys. It's not so much that it's hard, it's more that I doubt it would work if both of those failed. If a precipitation kind of works (e.g. you get product out but an impurity too), then I would consider it. It's a case-by-case thing. Use your judgement. Sometimes a typically easy purification method is actually harder; it depends on your specific problem.
 
-Have fun; don't die.
-
+Have fun; don't die.\
 Stephen

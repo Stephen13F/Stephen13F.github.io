@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Water"
+subtitle: "My favourite chemical compound"
+date:   2024-04-10 17:30:00 +1000
+author: "Stephen Franzese"
+categories: solvents
+tag: solvents
+---
+
+
+|![water](/assets/water.png)|
+|:---:|
+|Water|
+
+|  |  |
+| :----------------: | :-----------------: |
+| CAS number       | 	     7732-18-5 |
+| Melting point |   0 <sup>o</sup>C  |
+| Boiling point | 100 <sup>o</sup>C |
+|      pKa      |         14        |
+|    Density    |       0.998 g/ml      |
+| Vacuum for BP at 40 <sup>o</sup>C |     72 mbar     |
+| Dielectric constant | 80.10 |
+| Dipole moment| 1.87 D |
+| E<sub>T</sub>(30) value | 63.1 kcal/mol |
+| NMR peaks in CDCl<sub>3</sub>| 1.56 (s) |
+| NMR peaks in DMSO | 3.33 (s) |
+| Main hazards  | Water intoxication, drowning |
+
+Water is a great solvent. My year 11 chem book called it the 'universal solvent'. As an organic chemist, that can seem a bit ironic given it is really bad at dissolving many organic compounds. This is because so many of them are not that polar, and water is *very* polar. Very few solvents rank higher on the E<sub>T</sub>(30) scale and even then not by a whole lot.
+
+Water is best suited for dissolving compounds that are charged or that can form hydrogen bonds. Be aware that the presence of an O/N-H bond or a charge does not guarantee solubility, though. Some organic compounds can be made water soluble by adding a base or acid to deprotonate or protonate them, respectively. This can be a problem if you don't want them to enter the water phase of a liquid-liquid extraction, in which case you should keep the solution neutral (or at a pH where the molecule won't be charged).
+
+Reactions can be performed 'on water': the compound is not really dissolved in the water, it just reacts at the interface where it touches the water. This is quite appealing because it makes for easy work-ups and the solvent (water) is safe and cheap.
+
+In some cases, a compound (e.g. an inorganic base) is only really soluble in water, but the compound it is to react with is not. Luckily, many organic solvents are miscible with water: DMSO, acetone, alcohols, DMF, DMAc, THF, dioxane, etc. By using both water and the organic solvent, you can still get a reaction as the water will enter the organic phase. The benefits of each solvent will be discussed in their own posts. In some cases, a water-miscible solvent is not useful (e.g. the organic starting material isn't soluble) and a phase-transfer agent is used to overcome this. What it does is essentially grab compounds from one phase and bring it to the other to react. An example is Aliquat 336, an ammonium ion with long alkyl chains.
+
+In work-ups, water is useful for precipitations/recrystallisations and liquid-liquid extractions. Because organic compounds often dissolve poorly in it, water is a good choice as an antisolvent. It is best for situations where the desired material is of low polarity but the impurities are water soluble (even if only partially). A similar situation occurs with separations: it will remove water soluble impurities well, but most organic compounds will stick in the organic phase. If your organic solvent is water miscible, you may need to add brine (saturated NaCl solution) to get a sharper phase separation. Brine, as it contains ions, is essentially water but ultra polar.
+
+Water itself, like most solvents, is often an impurity. It is very hard to remove via rotary evaporation, so it is best you extract your compound into an organic compound first and then dry the organic phase (washing with brine extracts some water, but MgSO<sub>4</sub> will remove any traces fully, just add until you see it flow freely which always was hard for me to determine, but when you see it enough you will start to get a sense of what it means). If you precipitated your compound using water, collect it on the filter and let it dry for a while with the vacuum going, shifting the crystals around now and then. Once it is free-flowing (think of the difference between sand that's dry and wet), collect it and dry it under high vacuum overnight. If water still remains (e.g. you get a massive water peak in the NMR but your NMR solvents are definitely dry, or a big OH peak in IR), then try heating (e.g. in a vacuuum oven). Water can interfere in many reactions, but its main issue is that it will inflate the masses of your samples, making your calculations wrong. A lot of reactions tolerate water, and some even need it (naming no names, i.e. Suzuki-Miyaura cross couplings).
+
+Water is really safe. It's probably the only thing in the lab you can get in your eye without any issue. You need to drink a *lot* to die; it is possible, though unlikely to occur accidentally in the lab. The worst water-related hazard in the lab that is actually likely is scalding yourself when removing a flask fron a rotavap's heat bath or slipping because water spilled when someone was testing the eye wash station.
+
+I really do love water. It's amazing. It's life-giving. Also Gali was my favourite toa when I was a kid so I like it because of her. I always pick the water-type starter, my star sign is a water sign (pisces), I love swimming. It's also so handy in the lab even if we often work so hard to get rid of it. We would literally die without it.
+
+Stay hydrated; don't die.\
+Stephen
+
+**References**\
+Phyisical data obtained from: https://www.stenutz.eu/chem/solv6.php?name=water
+NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v

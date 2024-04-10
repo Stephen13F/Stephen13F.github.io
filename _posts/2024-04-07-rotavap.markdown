@@ -4,6 +4,7 @@ title:  "Using a Rotavap for Recrystallisations"
 date:   2024-04-07 21:45:00 +1000
 author: "Stephen Franzese"
 categories: work-up
+tags: work-up rotavap
 ---
 Recrystallisation is my favourite method of purification: it's simple to do and doesn't need much set-up. Plus crystals look cool. Its only problems are it can be lossy and it doesn't work amazingly for small-scale reactions. Also it can take a while since you have to wait for the crystals to grow, but picking the right eluent for a column or DCVC plug takes a while too and you can do other work while you wait, unlike chromatography.
 
@@ -24,7 +25,7 @@ Now that you have your solvent chosen, put your crude material into a round bott
 <h1>Using the Rotavap</h1>
 Now, we can talk about the Rotavap. This should tie up some loose threads that I have alluded to in the previous paragraphs. Once you understand this, it will make selecting a solvent and preparing the solution easier.
 
-You get your solution that is not fully dissolved and you heat it up while rotating. Make sure your vacuum is on: your flask can fall into the bath even with a keck clip. A vacuum pressure of 800-900 mbar is enough, but you can go lower as long as you're aware of what conditions cause your solvent to evaporate. You can make the bath very hot: I once used 75 degrees celsius for methanol. You don't want the solution to bubble vigorously (bump) though. Rotating avoids bumping and also helps us by agitating the solution. If you notice that the product is not dissolving fully even at temperatures close to (or indeed, slightly above) your solvent's BP, then just cut the vacuum, stop the rotation (stop rotating gradually, especially at high temperature or low pressure) and remove the flask. Then add more solvent and try it again. If your flask is too small, then move it into a bigger flask (do not fill beyond halfway: this is to make bumping less of an issue and to prevent your solution getting sucked into the bump guard or solvent trap). In this way we have obviated the need to worry about flask size selection: we can easily change to a bigger rbf (just be sure to rinse the flask well, especially if you have undissolved bits stuck to it).
+You get your solution that is not fully dissolved and you heat it up while rotating. Make sure your vacuum is on: your flask can fall into the bath even with a keck clip. A vacuum pressure of 800-900 mbar is enough, but you can go lower as long as you're aware of what conditions cause your solvent to evaporate. You can make the bath very hot: I once used 75<sup>o</sup>C for methanol. You don't want the solution to bubble vigorously (bump) though. Rotating avoids bumping and also helps us by agitating the solution. If you notice that the product is not dissolving fully even at temperatures close to (or indeed, slightly above) your solvent's BP, then just cut the vacuum, stop the rotation (stop rotating gradually, especially at high temperature or low pressure) and remove the flask. Then add more solvent and try it again. Consider centrifuging as well before adding huge amounts of solvent. If your flask is too small, then move it into a bigger flask (do not fill beyond halfway: this is to make bumping less of an issue and to prevent your solution getting sucked into the bump guard or solvent trap). In this way we have obviated the need to worry about flask size selection: we can easily change to a bigger rbf (just be sure to rinse the flask well, especially if you have undissolved bits stuck to it).
 
 If you have added too much solvent, then all you have to do is increase the vacuum and evaporate off some solvent. Thus we can dissolve our material in more than the minimal amount at room temperature, and then evaporate it off to reach the minimum amount. You can heat it while evaporating slowly to get really hot, high concentration solutions. Your product should still be dissolved and the volume will be far less than you could have reached at room temp. If you start to see product crashing out of solution, you can easily add more solvent and heating again. I even use solvent collected in the bump guard for this, both to avoid waste and because it's warmer than that from the bottle.
 
@@ -38,8 +39,7 @@ Once your crystals have formed, filter them, using the same poor solvent you use
 
 I honestly cannot imagine doing recrys without a rotavap; it feels like it was made for it. I hope it makes recryses even easier for you.
 
-Have fun; don't die.
-
+Have fun; don't die.\
 Stephen
 
 *You may be thinking 'what about mixed solvent recrystallisations?' I will discuss that in a later post. I prefer to consider this more akin to precipitation and would rather discuss them together.
