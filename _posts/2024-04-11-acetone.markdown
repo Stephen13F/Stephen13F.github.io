@@ -24,9 +24,12 @@ tag: solvents
 | Dielectric constant | 21.40 |
 | Dipole moment| 2.69 D |
 | E<sub>T</sub>(30) value | 42.2 kcal/mol |
-| NMR solvent residual peak | 2.05 ppm |
-| NMR peaks in CDCl<sub>3</sub>| 2.17 ppm (s) |
-| NMR peaks in DMSO | 2.07 ppm (s) |
+| <sup>1</sup>H NMR solvent residual peak | (q) 2.05 ppm |
+| <sup>13</sup>C NMR solvent residual peaks | (s) 206.26, (sept) 29.84 ppm |
+| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>| 2.17 ppm |
+| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>| 207.07, 30.92 ppm |
+| <sup>1</sup>H NMR peak in DMSO | 2.07 ppm |
+| <sup>13</sup>C NMR peaks in DMSO | 206.31, 30.56 ppm |
 | Main hazards  | Flammable |
 
 Acetone is one of those wonder solvents that seem to dissolve everything, which is why its main application in a chem lab is for rinsing out dirty glassware. It is a middling polarity solvent, miscible with water and most organic solvents. It is non-HBD. It's not great for recrys because you product is probably going to dissolve too well in it. It's a reasonable choice for dissolving a compound in before adding water to get precipitation, though using too much could mean some product remains dissolved. It can be used in chromatography, though obviously a lot of things will move quite quickly in it. I don't use it much for chromatography. It is a good last resort NMR solvent, but deuterated acetone is not produced on very economical scales and it gets wet easily so I'd use DMSO-d6 before I'd try it, even if it means losing the sample.

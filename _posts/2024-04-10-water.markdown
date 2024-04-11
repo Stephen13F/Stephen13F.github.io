@@ -24,8 +24,9 @@ tag: solvents
 | Dielectric constant | 80.10 |
 | Dipole moment| 1.87 D |
 | E<sub>T</sub>(30) value | 63.1 kcal/mol |
-| NMR peaks in CDCl<sub>3</sub>| 1.56 (s) |
-| NMR peaks in DMSO | 3.33 (s) |
+| <sup>1</sup>H NMR solvent residual peak | (s) 4.79 ppm |
+| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>| 1.56 ppm |
+| <sup>1</sup>H NMR peak in DMSO | 3.33 ppm |
 | Main hazards  | Water intoxication, drowning |
 
 Water is a great solvent. My year 11 chem book called it the 'universal solvent'. As an organic chemist, that can seem a bit ironic given it is really bad at dissolving many organic compounds. This is because so many of them are not that polar, and water is *very* polar. Very few solvents rank higher on the E<sub>T</sub>(30) scale and even then not by a whole lot.

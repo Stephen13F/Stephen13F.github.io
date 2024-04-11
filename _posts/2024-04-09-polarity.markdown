@@ -26,7 +26,7 @@ Reichardt's Dye is a very good dye for many reasons (stability, solubility, colo
 
 | ![B30](/assets/RD-clean.jpg) 
 |:--:| 
-| *Some Reichardt's Dye I made dissolved in different solvents. As you can observe, it is very pretty. From left to right, the solvents used are methanol, ethanol, isopropanol, DMSO, acetone, pyridine and THF.* |
+| *Some Reichardt's Dye I made dissolved in different solvents. As you can observe, it is very pretty. From left to right, the solvents used are methanol, ethanol, iso-propanol, DMSO, acetone, pyridine and THF.* |
 
 Due to all of this, I have reached the opinion that we can only use any measure of polarity as a guide. You must really consider the properties of the solvent and the interactions it can have with your solute. Solvents are more than just their polarity.
 
