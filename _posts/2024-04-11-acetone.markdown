@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Acetone"
+subtitle: "I love the smell of acetone in the morning"
+date:   2024-04-11 17:30:00 +1000
+author: "Stephen Franzese"
+categories: solvents
+tag: solvents
+---
+
+
+|![acetone](/assets/acetone.png)|
+|:---:|
+|Acetone (2-propanone)|
+
+|  |  |
+| :----------------: | :-----------------: |
+| CAS number       | 	     67-64-1 |
+| Melting point |   -95 <sup>o</sup>C  |
+| Boiling point | 57 <sup>o</sup>C |
+|      pKa      |         19.16        |
+|    Density    |       0.788 g/ml      |
+| Vacuum for BP at 40 <sup>o</sup>C |     556 mbar     |
+| Dielectric constant | 21.40 |
+| Dipole moment| 2.69 D |
+| E<sub>T</sub>(30) value | 42.2 kcal/mol |
+| NMR solvent residual peak | 2.05 ppm |
+| NMR peaks in CDCl<sub>3</sub>| 2.17 ppm (s) |
+| NMR peaks in DMSO | 2.07 ppm (s) |
+| Main hazards  | Flammable |
+
+Acetone is one of those wonder solvents that seem to dissolve everything, which is why its main application in a chem lab is for rinsing out dirty glassware. It is a middling polarity solvent, miscible with water and most organic solvents. It is non-HBD. It's not great for recrys because you product is probably going to dissolve too well in it. It's a reasonable choice for dissolving a compound in before adding water to get precipitation, though using too much could mean some product remains dissolved. It can be used in chromatography, though obviously a lot of things will move quite quickly in it. I don't use it much for chromatography. It is a good last resort NMR solvent, but deuterated acetone is not produced on very economical scales and it gets wet easily so I'd use DMSO-d6 before I'd try it, even if it means losing the sample.
+
+Acetone is highly volatile, which is also useful for cleaning since it will evaporate away with a blast of compressed air. This is good for work-ups since it can be removed simply by rotary evaporation. This is part of why it is not a great reaction solvent: it makes it hard to increase the temperature of a reaction in acetone very high without a condensor. I'll often use it for dissolving and transferring a compound to a smaller rbf because I'm not likely to need much and it'll be easy to evaporate it away.
+
+One of its other faults is the fact it is quite reactive. I was warned it would react with chloroform to give phosgene (a chemical weapon) as an explanation of why not to mix your chlorinated and hydrocarbon wastes. I think this is not true, but I have also heard the two will react explosively in the presence of a base, so don't mix them either way. I think the real reason for not mixing them in your waste is that you want to make as little chlorinated waste as possible and adding acetone would just bulk it out needlessly. Acetone's mildly acidic and can react with hydroxide (it can form an enol which will react further with other acetone molecules). Be careful when using it as a solvent due to this. Being a ketone, it is both electrophilic and nucleophilic.
+
+Acetone is quite safe. Its vapours may cause wooziness, but its real health risk is that it seeps through nitrile gloves: it can carry more dangerous chemicals through with it. The biggest hazard posed by acetone is its flammability, but if you're in an organic lab you should already be careful about not starting fires.
+
+I like acetone. It's not a solvent I'll use in reactions or for purification very much, but it has its uses. It's there whenever you're struggling to dissolve things but want to be able to undo adding a solvent easily (unlike some solvents *cough* DMSO *cough*). There's nothing quite like cracking open a fresh bottle of acetone before tackling a big clean up.
+
+Have fun; don't die.\
+Stephen
+
+**References**\
+Phyisical data obtained from: https://www.stenutz.eu/chem/solv6.php?name=acetone
+pKa from Chiang, Y., Kresge, A., J., Tang, Y., S. and Wirz, J. *Journal of the American Chemical Society*. 1984, *106*(2), 460-462. DOI: 10.1021/ja00314a055
+NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v
