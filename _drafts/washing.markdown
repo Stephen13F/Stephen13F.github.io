@@ -12,9 +12,9 @@ Please, people, I beg you: clean your glassware!
 
 <h1>Glassware</h1>
 
-I was taught this method by a really pedantic postdoc and I consider it the gold standard. I will teach this to anyone I supervise.
+I was taught this method by a postdoc who was really pedantic (in a good way) and I consider it the gold standard. I will teach this to anyone I supervise.
 
-First, rinse out your compound with a solvent you know it dissolves well in. If you have a lot of solid that dissolves poorly then try to scrape it out first to avoid wasting solvent. If you use a chlorinated solvent, rinse that out with an alcohol into the chlorinated waste. I would then rinse with acetone if you haven't already. The glassware should be more or less clean by now. Make sure you have wiped off any pen ink labels with acetone.
+First, rinse out your compound with a solvent you know it dissolves well in. If you have a lot of solid that dissolves poorly then try to scrape it out first to avoid wasting solvent. If you use a chlorinated solvent, rinse that out with an alcohol into the chlorinated waste. I would then rinse with acetone if you haven't already. The glassware should have few, if any, visible compound remaining now. Make sure you have wiped off any pen ink labels with acetone.
 
 Next, add some detergent. Sometimes (I see it with phenol derivatives a lot) you will see colour appearing when the detergent is added and in this case I rinse the soap into the hydrocarbons waste with acetone or alcohol. If it is a vessel (rbf, conical flask, sep funnel etc), fill it with hot, soapy water and scrub with a bottlebrush. If the vessel is very small, use a pipe cleaner. For things with spouts, use a pipe cleaner, but be gentle, especially for sep funnels. Try to get some nice suds going and get all the walls scrubbed. Get some detergent on a sponge and wash the outside. The outside of an rbf can easily get inside, so you want that to be clean too. For other glassware, I would just use a sponge instead of a bottlebrush or pipe cleaner unless it has a spout-like thing (e.g. funnels).
 
@@ -22,15 +22,17 @@ Rinse the soap out with tap water. To get suds out of an rbf, you should shake i
 
 After rinsing your flask clean (and making sure your hands are suds-free), rinse it again with distilled water. This should wash away any ions from the tap water. A quick rinse will suffice.
 
-Finally, wash with acetone once more. This is to remove the water. Dry it with a compressed air gun. The outside you can get away with just drying with a paper towel and not rinsing with acetone (though I would rinse around the lip and neck to be safe). If you still see liquid rivules or droplets after a while blowing it dry, it's probably water, so just give it another quick rinse and start drying again.
+Finally, wash with acetone once more. This is to remove the water. Dry it with a compressed air gun. The outside you can get away with just drying with a paper towel and not rinsing with acetone (though I would rinse around the lip and neck to be safe). If you still see liquid rivules or droplets after a while blowing it dry, it's probably water, so just give it another quick rinse and start drying again. Make sure you hold the glassware carefully and avoid inserting the nozzle of the air gun into the spouts of funnels etc. I have broken at least two glass funnels when drying because they have slipped out of my hands. It is a good idea to dry your gloves or replace them entirely before drying (both to avoid getting water back onto the glass. but also so they're less slippery).
 
 Leave your glassware drying on paper towel, openings of rbfs etc facing down so any lingering solvent drips out and doesn't pool inside. Make sure to put them away after they're fully dry.
 
 If something is really stuck on, you can apply some elbow grease: soak a paper towel in acetone (or any appropriate solvent), wrap it around the end of a bent spatula, then stick it in the flask and scrub. If this fails, try sonicating with solvent inside, or using a bottle brush (though you should clean that before using it on any other glassware). Sometimes I'll use detergent and solvent mixed together and scrub, or use soapy water and then pour it into my aqueous waste container. Try to avoid pouring organic compounds with questionable safety down the drain.
 
-<h1>Glass Frits/h1>
+<h1>Glass Frits</h1>
 
 This applies to anything with fritted glass. Wash by spraying solvent and running the vacuum to suck it down (or letting it drip through). I advise a mix of solvents of different types, but usually methanol and acetone will get used. For frits which can be attached to a vacuum, add some soapy water and pull that through then rinse with distilled water followed by acetone. Make sure you empty the flask collecting the washes before and after you use water (do not pour water into your organic waste). A good solvent to end on is petroleum spirits because it will easily evaporate (glass frits are a pain to dry with an air gun): just leave it under vacuum for a while and it should be dry.
+
+A stained frit can be cleaned by pouring some acid into it and holding the frit above a beaker overnight. The acid will slowly drip through the frit into the beaker, leaving it clean. Please use normal acid (e.g. H<sub>2</sub>SO<sub>4</sub>) before you try anything crazy like aqua regia (or worse, pirahna solution). Also please put up a notice warning people you're using acid. Acids are dangerous.
 
 <h1>NMR Tubes and caps</h1>
 
@@ -56,7 +58,7 @@ I have said before that elbow grease is the best solvent. This is where it is mo
 
 <h1>Stirrer Bars</h1>
 
-Acetone scrub will usually do, or a good wash with a sponge if it's bad, but sometimes metal catalyst will stick or the stirrer bars will get stained. In this case, a soak in acid overnight or for a few days will do the trick. Be careful with acids. Please use normal acid before you try anything crazy like aqua regia (or worse). Also please put up a notice warning people you're using acid. If you see a bunch of stirrer bars in a beaker full of an unknown liquid, DO NOT TOUCH.
+An acetone scrub will usually do, or a good wash with a sponge if it's bad, but sometimes metal catalyst will stick or the stirrer bars will get stained. In this case, a soak in acid overnight or for a few days will do the trick. Be careful with acids. Please use normal acid before you try anything crazy like aqua regia (or worse). Also please put up a notice warning people you're using acid. If you see a bunch of stirrer bars in a beaker full of an unknown liquid, DO NOT TOUCH.
 
 <h1>Glass or Quartz Slides</h1>
 
@@ -72,6 +74,10 @@ Pour out the solution, rinse with the solvent used then acetone (or if chlorinat
 
 A wipe with acetone will usually suffice, but if product has actually touched it then I would give it the full wash (soap, water etc).
 
+<h1>Rubber Seals</h1>
+
+I avoid using acetone often unless I really dirtied them. I think it might be bad for the rubber. I usually clean with iso-propanol and a good scrub with a paper towel.
+
 <h1>Glass Pipettes</h1>
 
 Rinse out with acetone and blow dry with compressed air. This is best for pipettes that have only touched solvents (if you used chloroform, rinse it out into the waste with a non-acetone solvent like an alcohol before using acetone). You can clean pipettes that have been used for other things but don't waste too muuch time or solvent. You should rinse with either acetone or a known solvent that dissolves your compound well followed by acetone (or methanol then acetone if the solvent is chlorinated).
@@ -80,21 +86,47 @@ Rinse out with acetone and blow dry with compressed air. This is best for pipett
 
 Silica can often be reused if you have fully washed out everything, there's nothing stuck on the baseline at the top and there's nothing stuck to the frit at the bottom. You may need to recompact it, but that's not too big a deal.
 
-If you empty the silica out and want to clean it (especially if the silica still had compound on it), I advise an acetone rinse (or a different solvent first if you used a chlorinated solvent): pour some in, make sure the sides got coated, then push it out with N<sub>2</sub>. After this, wash out the residual silica with water into the sink. Rinse again with acetone and again push it out with N<sub>2</sub>. This should suffice. I wouldn't scrub with soap etc because colums are just too long; you can't get a brush down far enough to wash it properly. If some residue were stuck, and it didn't come out with solvent, then I highly doubt it will cause you issues during a column (though it's not impossible).
+If you empty the silica out and want to clean the column (especially if the silica still had compound on it), I advise an acetone rinse (or a different solvent first if you used a chlorinated solvent): close the stopcock, pour some in, make sure the sides got coated, then open the stopcock and let the solvent flow out into a beaker or flask. If need be, you can push it out with N<sub>2</sub>. After this, wash out the residual silica with water into the sink. Rinse again with acetone and again let the solvent out throught the stopcock. This should suffice. I wouldn't scrub with soap etc because colums are just too long: you can't get a brush down far enough to wash it properly. If some residue were stuck, and it didn't come out with solvent, then I highly doubt it will cause you issues during a column (though it's not impossible). You can always try to scrub with a brush; it won't hurt.
 
 See the instructions for frits above if you have stuff stuck to the frit. This is probably the real problem area and I would focus my efforts on cleaning this part.
+
+<h1>Oil Baths</h1>
+
+If you have put anything into an oil bath, let it drip into the bath after taking it out. Once it is cool, wipe it clean with a paper towel and petroleum spirits/hexane. Wipe your hot plate clean after removing the oil bath. Change gloves after touching the oil bath to avoid oil getting on other stuff. If your oil looks dirty, throw it away into the silicone oil waste (NOT hydrocarbons) and then, after wiping the bath clean with pet. spirits, add fresh oil. Please don't persist with brown looking oil baths. Oil baths are painful enough without also being disgusting.
 
 <h1>Benchtops</h1>
 
 Benchtops should be coated with that cover thingy. I like to do two layers and have the shiny sides facing out (like a sandwich). If they get dirty or torn you should replace them. To make this less arduous, lay the paper across the bench in segments held together with masking tape, so if one part is bad you only have to replace that section.
 
-<h1>Schlenck Lines</h1>
+<h1>Schlenk Lines</h1>
 
-This is my least favourite cleaning job. It is, as my uncle would say, quite a process. Be very careful with schlenck lines at all times: they are very fragile and one crack can ruin the whole line.
+This is my least favourite cleaning job. It is, as my uncle would say, quite a process. Be very careful with schlenk lines at all times: they are very fragile and one crack can ruin the whole line.
 
 Remove the line (carefully) by first detaching the nitrogen and vacuum, then (slowly, while holding the line at all times) open the clamps holding it up. Lay it on the bench and (BE VERY CAREFUL) cut open the tubes attached to the taps etc.
 
-More details can be found [here](https://schlenklinesurvivalguide.com/cleaning-2/).
+Then try your hardest to rinse out the line with a mix of solvents, using a pipe cleaner to scrub away any solid stuff. Remove the taps and clean them out with a pipecleaner too.
+
+An alternative method can be found [here](https://schlenklinesurvivalguide.com/cleaning-2/).
+
+Grease should be easily removed by petroleum spirits/hexane. Toluene is a good solvent for cleaning the line but it is quite toxic so be careful.
+
+Consider what you have gotten stuck in the line. If you know what's in it, then you should hopefully know what will dissolve it. If you have sucked up silica (I have seen this once. Not the actual sucking up, but I've seen the silica stuck in the line), then after pouring it into the silica waste you should rinse with water.
+
+Schlenk lines should be ballasted fairly fequently, especially if solvent has been sucked into the line. You only need to do it for about 15-30 minutes, maybe once a month minimum. There should be a sort of dial-like switch which you turn to the other direction. You cannot use your vacuum while this is occuring, so please make sure people are not using the vacuum before you do this and let people know you're doing it.
+
+<h1>Fumehoods</h1>
+
+A fumehood should be cleaned at least yearly (I am not a hypocrite: I have actually cleaned mine yearly, even if only because we had a lab-wide clean and then a year later we moved labs). Remove everything and then spray some solvent and scrub. Perhaps get a sponge (which you will need to throw away) for this. After this, rinse it all down (your fumehood should have taps for cooling water, so attach a tube and use it as a hose). Try to get rid of any dust (I found spraying water or compressed air at it worked alright). A scrub with soap followed by another rinse with water would also be nice. Clean the glass of the sash from the inside and out. A fumehood you can actually see into is the bare minimum.
+
+A year is long, however, so please keep your fumehood clean by wiping up spills when they happen and not leaving random samples sitting around (OK, I admit I once had about 20 or 30 glass vials of dye dissolved in different solvents sitting in my fumehood, but in my defence I was interested in potential degradation and wanted to be able to check them again if need be).
+
+<h1></h1>
+I have seen many horrors in my time in the lab. Cleaning is important and you need to put the effort in. A clean lab is a lab that makes you feel happy. It makes you more efficient and if everyone is pulling their weight your team will not be fantasising about throwing your samples into the waste because they have been clogging up their workspace for three weeks.
+
+Put things back where you found them. Label things properly. Be careful so you avoid making messes in the first place.
+
+If you are dead tired and it is the end of the day and the idea of washing up makes you want to drink straight from the ethanol squeeze bottle (or whichever solvent you prefer*), then it is OK to leave your glassware, but please rinse it clean first with acetone, even just a quick rinse. Then wash it up properly first thing in the morning.
 
 Have fun; keep clean.\
 Stephen
+*Please do not drink solvents. It will probably kill you.
