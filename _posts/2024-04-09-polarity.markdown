@@ -20,7 +20,7 @@ In the absence of a good physical parameter, people started making empirical pol
 |:--:| 
 | *The right diagram shows what I mean about the energy of Betaine 30. If you had positive solvatochromism (the left diagram) you get the opposite situation and the wavelengths absorbed would increase as polarity increases.* |
 
-Great, we at least know which solvents are more polar than other solvents. Wrong. Betaine 30 (which became known as Reichardt's Dye) is just one solvatochromic dye. There are so many different dyes and they all interact with solvents differently. Some are more sensitive to H-bonds, some less sensitive. We end up with many different scales of solvent polarity: the order is dye-dependent.
+Great, at least we know which solvents are more polar than other solvents. *Wrong*. Betaine 30 (which became known as Reichardt's Dye) is just one solvatochromic dye. There are so many different dyes and they all interact with solvents differently. Some are more sensitive to H-bonds, some less sensitive. We end up with many different scales of solvent polarity: the order is dye-dependent.
 
 Reichardt's Dye is a very good dye for many reasons (stability, solubility, colour being visible etc), so its use is so widespread partly because of this, not so much because it gives a 'true' polarity scale.
 
