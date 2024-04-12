@@ -46,7 +46,7 @@ Alternatively you can make your own with a cannula, a couple of adapters and a v
 
 Alternatively you just spray solvent in with a pipette or a squeeeze bottle, just be careful when using a squeeze bottle not to push the tip in too hard (is it just me, or is this section getting a bit suggestive?) or the tube will chip and become useless.
 
-I advise rinsing with the NMR solvent first. I would then rinse with methanol if I had used chloroform. Make sure to rinse out the reservoir between chlorinated and acetone washes. A final acetone rinse should do the trick, but if it's still got stuff on it then try other solvents. You could probably sonicate it if it's really bad. I've never done that before, but I think it'll be fine, just clean the tube with water, acetone and kimwipe it so nothing from the sonicator bath sticks to it.
+I advise rinsing with the (non-deuterated) NMR solvent first. I would then rinse with methanol if I had used chloroform. Make sure to rinse out the reservoir between chlorinated and acetone washes. A final acetone rinse should do the trick, but if it's still got stuff on it then try other solvents. You could probably sonicate it if it's really bad. I've never done that before, but I think it'll be fine, just clean the tube with water, acetone and kimwipe it so nothing from the sonicator bath sticks to it.
 
 Once the tube is clean, place it in an oven to dry. It can take a while for acetone to fully evaporate, so spectra done with very freshly cleaned tubes may show residual acetone.
 
