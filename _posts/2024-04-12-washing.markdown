@@ -36,7 +36,7 @@ A stained frit can be cleaned by pouring some acid into it and holding the frit 
 
 <h1>NMR Tubes and caps</h1>
 
-You can buy glass NMR tube cleaners. They're a thin glass tube surrounded by a larger tube and a sort of solvent reservoir. you connect it to a vacuum, stick the NMR tube onto the thin tube, add the solvent and move the NMR tube up and down so it sucks and releases the solvent which will get taken into the inner tubeand down into an rbf.
+You can buy glass NMR tube cleaners. They're a thin glass tube surrounded by a larger tube and a sort of solvent reservoir. you connect it to a vacuum, stick the NMR tube onto the thin tube, add the solvent and move the NMR tube up and down so it sucks and releases the solvent which will get taken into the inner tube and down into an rbf.
 
 Alternatively you can make your own with a cannula, a couple of adapters and a vessel to catch the solvent. You stick the tube onto the cannula, spray solvent at the base and the rest is like how I described before.
 
