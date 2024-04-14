@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Methanol"
+subtitle: "The alcohol you don't want to drink"
+date:   2024-04-11 17:30:00 +1000
+author: "Stephen Franzese"
+categories: solvents
+tag: solvents
+---
+
+
+|![methanol](/assets/methanol.png)|
+|:---:|
+|Methanol|
+
+|                                             |                     |
+| :-----------------------------------------: | :-----------------: |
+| CAS number                                  | 	     67-56-1 |
+| Melting point                               |   -97 <sup>o</sup>C  |
+| Boiling point                               | 65 <sup>o</sup>C |
+|      pKa                                    |         15.5        |
+|    Density                                  |       0.791 g/ml      |
+| Vacuum for BP at 40 <sup>o</sup>C           |     337 mbar     |
+| Dielectric constant                         | 32.60 |
+| Dipole moment                               | 2.87 D |
+| E<sub>T</sub>(30) value                     | 55.4 kcal/mol |
+| <sup>1</sup>H NMR solvent residual peak     | (bs)  (s) ppm |
+| <sup>13</sup>C NMR solvent residual peaks   | (quint) ppm |
+| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>  | (bs) (s)  ppm |
+| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|  ppm |
+| <sup>1</sup>H NMR peak in DMSO              | yyy, zzz ppm |
+| <sup>13</sup>C NMR peaks in DMSO            | xxx ppm |
+| Main hazards                                | Flammable, toxic |
+
+Methanol is a good solvent. It's very polar and generally it's the first solvent I reach for for stubborn molecules after acetone. It evaporates fairly easily, but not so easily that you it'll just fly away if you leave a flask open for a minute. This makes it quite easy to work with. Due to its high polarity (and its hydrogen bonding ability) it is easily miscible with water and hygroscopic. It isn't very good to use it in a liquid-liquid separation with water because of this (I would literally never try this). It *could* possibly be used to extract from a *very* non-polar solvent (pet. spirits, hexane, heptane, pentane, etc). I doubt this would ever be useful but, hey, you never know. Maybe you could make it even more polar by adding NaCl... or NaOH to make some methoxide and water... not sure if that's a good idea and anyway, you might as well just add water at that point because you'll still need to remove the salt if your product's going into the methanol layer. *Perhaps* you have a non-polar product with impurities which are more polar, but not water soluble, but really, if methanol dissolves your product you'd probably not get great partitioning because I imagine it doesn't dissolve amazingly in hydrocarbons.
+
+It is one of the best solvents for recrys because it dissolve things well but being so polar a not-so-polar product should precipitate out. It is also able to get quite hot before it boils and I like it because evaporates nicely, so if I add too much I can remove it easily. Its miscibility with water means it is good for precipitations/mixed recryses using water as an antisolvent. Water-methanol mixtures (usually 1:1) are good for washing collected crystals, both for pure methanol recryses and with water as an antisolvent. It is less likely to wash out your product but should still wash away trace impurities.
+
+Methanol is rarely, if ever, used in chromatography by itself. It's considered bad for a few reasons, one being it is unlikely anything will separate because it'll all move too well. The other is that I've heard it can dissolve silica. I think this is a bit of a myth and have heard that it is in fact methanol/DCM mixtures that cause 'shedding' of fragments of silica. I have used methanol/DCM mixtures for chromatography (0-10% methanol in DCM) and never noticed any issues. I once had some particularly impure Reichardt's Dye which I used a short silica plug to purify. The dye is a zwitterion though so it refused to budge from the silica and in an act of desperation I flushed it out with pure methanol. The silica did not melt away or anything and I had no problems (admittedly it was a very small plug). This is probably the only time I would use methanol in a column: to wash out stubborn baselines after I have already removed the other impurities. If silica *did* get into your fraction, you could probably filter it off with a very fine filter because silica does not dissolve in organic solvents.
+
+Methanol-d4 is a good NMR solvent, but it will have big water peaks. Try to keep deuterated methanol well sealed to avoid excessively large water peaks, but it'll pick up water while you prepare the sample, so expect them anyway. The water peak also overlaps with the HO peak of methanol. It is also not especially economical to use. Methanol-d4 is more commonly used by adding a drop of it to help dissolve a compound in CDCl<sub>3</sub> (or DMSO-d6, but that's usually less likely to need it). It also evaporates well enough that you can recover your sample from it if need be.
+
+If your reaction is not water sensitive, methanol is a nice solvent. You can add molecular sieves to the reaction to remove water if that is an issue, but if you prepare dry methanol you should use it quickly and keep it under nitrogen at all times. It should also dissolve salts OK (I mean, check solubilities first, but it *is* very polar). Being a polar, H-bond forming solvent, methanol favours the formation of ions. It is a good choice if you know you have a charged intermediate (such as my brominations, where I want NBS to form bromonium ions). Methanol is fairly acidic, as alcohols are, so it will form some methoxide under basic conditions. It is thus rather nucleophilic (even without bases), so I would be careful of that. I have in fact seen methanol react with my product: I was once trying to brominate 4-(4-pyridin-4-yl)phenylphenol in methanol (under acidic conditions) and got what seemed like a methoxy stuck onto the molecule. This is a rather rare occurrence though and none of my other brominations did this.
+
+Methanol is famously toxic because it often forms during the brewing of moonshine. If you plan to make your own illegal alcohol (not saying you should, but just in case you do), be careful of methanol. It causes blindness, madness and death (in that order, apparently). Nitrile protects quite well from alcohols, but methanol is very readily absorbed by the skin, and you shouldn't wear solvent-coated gloves for long anyway, so be careful if it spills.
+
+The other danger is its flammability. Please be typically cautious about fire risks (a chem lab is not the place to be nonchalant about fire).
+
+I have a personal fondness for methanol because it is a solvent that dissolves my dyes quite well (and they don't often dissolve well). I think it is one of my most used solvents. I have probably used more deuterated methanol than everyone else in the lab combined (and possibly in the history of the group) because of my dyes. I also love recryses and methanol is usually my first choice for that. It's a shame it's so toxic.
+
+Stay safe; don't dye.
+Stephen
+
+**References**\
+Phyisical data obtained from: https://www.stenutz.eu/chem/solv6.php?name=methanol\
+pKa from P. Ballinger and F. A. Long. *Journal of the American Chemical Society*. 1960, *82*(4), 795-798
+DOI: 10.1021/ja01489a008\
+NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v

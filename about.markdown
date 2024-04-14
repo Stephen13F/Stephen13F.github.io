@@ -17,7 +17,7 @@ I am a member of the Wong Group which is a part of [the Australian Centre of Exc
 |:--:| 
 | *Some Reichardt's Dye I made dissolved in different solvents* |
 
-<h2>Publications</h2>
+<h1>Publications</h1>
 Coming soon
 
 <h1>Contact Details</h1>
