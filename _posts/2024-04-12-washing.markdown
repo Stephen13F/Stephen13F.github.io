@@ -70,7 +70,7 @@ Alternatively, there's a plasma cleaner thing.
 
 Pour out the solution, rinse with the solvent used then acetone (or if chlorinated solvents were used, rinse with alcohol into the chlorinated waste, then use acetone). Rinse the sides clean with acetone and wipe them clean with a kimwipe. While using a kimwipe to hold the cuvette securely, blow compressed air in to dry it. If you touch the glass at all, wipe it down with a kimwipe with a bit of acetone then dry it down with a dry kimwipe.
 
-<h1>Glass Stoppers and Adapters</h1>
+<h1>Stoppers and Adapters</h1>
 
 A wipe with acetone will usually suffice, but if product has actually touched it then I would give it the full wash (soap, water etc).
 
@@ -112,7 +112,7 @@ Grease should be easily removed by petroleum spirits/hexane. Toluene is a good s
 
 Consider what you have gotten stuck in the line. If you know what's in it, then you should hopefully know what will dissolve it. If you have sucked up silica (I have seen this once. Not the actual sucking up, but I've seen the silica stuck in the line), then after pouring it into the silica waste you should rinse with water.
 
-Schlenk lines should be ballasted fairly fequently, especially if solvent has been sucked into the line. You only need to do it for about 15-30 minutes, maybe once a month minimum. There should be a sort of dial-like switch which you turn to the other direction. You cannot use your vacuum while this is occuring, so please make sure people are not using the vacuum before you do this and let people know you're doing it.
+Schlenk lines should be ballasted fairly fequently, especially if solvent has been sucked into the line. You only need to do it for about 15-30 minutes, maybe once a month minimum. There should be a sort of dial-like switch which you turn to the other direction. You cannot use your vacuum while this is occurring, so please make sure people are not using the vacuum before you do this and let people know you're doing it.
 
 <h1>Fumehoods</h1>
 
