@@ -25,10 +25,10 @@ tag: solvents
 | Dipole moment                               | 2.87 D |
 | E<sub>T</sub>(30) value                     | 55.4 kcal/mol |
 | <sup>1</sup>H NMR solvent residual peak     | (quint) 3.31 ppm |
-| <sup>13</sup>C NMR solvent residual peaks   | (quint) 49.00 ppm |
-| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>  | (bs) 1.09 (s) 3.49 ppm |
+| <sup>13</sup>C NMR solvent residual peaks   | (sept) 49.00 ppm |
+| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>  | (bs) 1.09, (s) 3.49 ppm |
 | <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>| 50.41 ppm |
-| <sup>1</sup>H NMR peak in DMSO              | 4.01, 3.16 ppm |
+| <sup>1</sup>H NMR peak in DMSO              | (bs) 4.01, (s) 3.16 ppm |
 | <sup>13</sup>C NMR peaks in DMSO            | 48.59 ppm |
 | Main hazards                                | Flammable, toxic |
 
