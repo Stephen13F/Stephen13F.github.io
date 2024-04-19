@@ -5,12 +5,7 @@ date:   2024-04-07 21:45:00 +1000
 author: "Stephen Franzese"
 categories: work-up
 tags: work-up rotavap
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+
 ---
 Recrystallisation is my favourite method of purification: it's simple to do and doesn't need much set-up. Plus crystals look cool. Its only problems are it can be lossy and it doesn't work amazingly for small-scale reactions. Also it can take a while since you have to wait for the crystals to grow, but picking the right eluent for a column or DCVC plug takes a while too and you can do other work while you wait, unlike chromatography.
 
