@@ -30,7 +30,7 @@ tag: solvents
 | <sup>13</sup>C NMR peaks in DMSO | 20.68, 170.31, 59.74, 14.40 ppm |
 | Main hazard  | Flammable, irritant |
 
-I think ethyl acetate smells like hazelnuts. Other people say it smells like nail polish. I kind of like the smell, in small doses. It's a well rounded solvent that can be used for most applications. I went through a bit of an ethyl acetate phase for a while because it is so handy.
+I think ethyl acetate smells like hazelnuts. Other people say it smells like nail polish. I kind of like the smell, in small doses. It makes me a little hungry, which isn't helped by the fact it supposedly tastes sweet. In the lab, it's a well rounded solvent that can be used for most applications. I went through a bit of an ethyl acetate phase for a while because it is so handy (and not just because I liked the smell).
 
 It is a fairly low polarity solvent and so it is not particularly great at dissolving everything, but it is still quite capable and its BP is not too low either, which combined makes it a decent solvent for recrys. It would probably be quite good to add pet. spirits to it to precipitate a polar product. It is not miscible with water and is thus a great choice for liquid-liquid extractions. It's probably my favourite because the other popular options are chlorinated solvents and I prefer not getting cancer.
 
@@ -44,10 +44,10 @@ Ethyl acetate's main hazard is that it can penetrate the skin and cause irritati
 
 Apparently, ethyl acetate dissolves cocaine better than water dissolves salt. I don't know how you would use this information, but there you go.
 
-Have fun; don't die.\
+Have fun; don't do drugs.\
 Stephen
 
 **References**\
-Phyisical data obtained from: https://www.stenutz.eu/chem/solv6.php?name=ethyl%20acetate\
+Phyisical data obtained from: [https://www.stenutz.eu/chem/solv6.php?name=ethyl%20acetate](https://www.stenutz.eu/chem/solv6.php?name=ethyl%20acetate)\
 pKa from Amyes, T. L., and Richard, J. P. *Journal of the American Chemical Society*. 1996, *118*(13), 3129-3141 DOI: 10.1021/ja953664v\
 NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v
