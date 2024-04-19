@@ -49,5 +49,5 @@ Stay hydrated; don't die.\
 Stephen
 
 **References**\
-Phyisical data obtained from: https://www.stenutz.eu/chem/solv6.php?name=water\
+Phyisical data obtained from: [https://www.stenutz.eu/chem/solv6.php?name=water](https://www.stenutz.eu/chem/solv6.php?name=water)\
 NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v

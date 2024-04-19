@@ -52,7 +52,7 @@ Stay safe; don't die.\
 Stephen
 
 **References**\
-Phyisical data obtained from: https://www.stenutz.eu/chem/solv6.php?name=methanol\
+Phyisical data obtained from: [https://www.stenutz.eu/chem/solv6.php?name=methanol](https://www.stenutz.eu/chem/solv6.php?name=methanol)\
 pKa from P. Ballinger and F. A. Long. *Journal of the American Chemical Society*. 1960, *82*(4), 795-798
 DOI: 10.1021/ja01489a008\
 NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v
