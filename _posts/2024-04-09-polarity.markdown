@@ -36,6 +36,8 @@ I plan to make a few posts about different solvents or solvent families and give
 
 One key thing is ensuring all your compounds dissolve in your solvent and can interact. If you need to dissolve a salt, toluene isn't going to do it, and if you add water your organic material will probably not mix well. If you use both, well, everything will dissolve, but it won't mix well. If you swap toluene for, say, dioxane (water miscible but still quite low polarity), you will be likely to get a much faster reaction with better yield. It is all about understanding how things will interact.
 
+I tend to organise solvents as being high polarity if they have polarity above (or equal to) acetonitrile and low polarity if it is below pyridine. This has no rigorous scientific reasoning except that my dyes often degrade in solvents less polar than pyridine so to me 'below pyridine' is like no man's land. Then there are the actually non-polar solvents which are the hydrocarbons. In general, people will call any solvent above diethyl ether polar.
+
 As for which solvent is the best? Well, that is an easy question to answer: the best solvent is elbow grease.
 
 Have fun; don't die.\
