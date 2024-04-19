@@ -15,11 +15,11 @@ tag: solvents
 
 |  |  |
 | :----------------: | :-----------------: |
-| CAS number       | 	     67-64-1 |
+| CAS number       | 	     141-78-6 |
 | Melting point |   -84 <sup>o</sup>C  |
 | Boiling point | 77 <sup>o</sup>C |
-|      pKa      |         25        |
-|    Density    |       0.788 g/ml      |
+|      pKa      |         26        |
+|    Density    |       0.901 g/ml      |
 | Vacuum for BP at 40 <sup>o</sup>C |     240 mbar     |
 | Dielectric constant | 6.40 |
 | Dipole moment| 1.88 D |
@@ -49,4 +49,5 @@ Stephen
 
 **References**\
 Phyisical data obtained from: https://www.stenutz.eu/chem/solv6.php?name=ethyl%20acetate\
+pKa from Amyes, T. L., and Richard, J. P. *Journal of the American Chemical Society*. 1996, *118*(13), 3129-3141 DOI: 10.1021/ja953664v\
 NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v
