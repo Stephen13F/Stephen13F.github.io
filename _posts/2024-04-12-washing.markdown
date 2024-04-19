@@ -50,7 +50,7 @@ I advise rinsing with the (non-deuterated) NMR solvent first. I would then rinse
 
 Once the tube is clean, place it in an oven to dry. It can take a while for acetone to fully evaporate, so spectra done with very freshly cleaned tubes may show residual acetone.
 
-For NMR caps, I usually let them sit a bit in a beaker of solvent (probably acetone) and then let them dry off or blow them with an air gun. Unless you're inverting your tubes, they should'nt be very dirty, and you might even be able to get away with not cleaning them (though if you're sharing them, you really should clean them).
+For NMR caps, I usually let them sit a bit in a beaker of solvent (probably acetone) and then let them dry off or blow them with an air gun. Unless you're inverting your tubes, they shouldn't be very dirty, and you might even be able to get away with not cleaning them (though if you're sharing them, you really should clean them).
 
 <h1>Spatulas and Tweezers</h1>
 
