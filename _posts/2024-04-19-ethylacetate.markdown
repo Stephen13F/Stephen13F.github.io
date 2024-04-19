@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Acetone"
-subtitle: "I love the smell of acetone in the morning"
-date:   2024-04-11 17:30:00 +1000
+title:  "Ethyl Acetate"
+subtitle: "The workhorse of work-up"
+date:   2024-04-19 17:10:00 +1000
 author: "Stephen Franzese"
 categories: solvents
 tag: solvents
