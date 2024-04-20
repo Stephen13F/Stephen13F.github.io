@@ -32,7 +32,7 @@ Always clean out the solvent trap and bump guard after you have used the rotavap
 
 If a significant amount of compound has been sucked into the rotavap, you can clean it by filling an rbf with solvent (probably acetone) and holding it to the joint that the bump guard connects to. Turn on the rotavap, stick the flask onto the joint and pull it off. This will cause it to be sucked in and rinse out the compound into the trap. Repeat this as much as needed.
 
-The clasp that holds the solvent trap in place does not actually need to be tightened. The vacuum is not as good as you might think, even at the best of times, so the little clasp is not going to make it noticeably better. It will also not fall, even if the trap is quite full of solvent.
+The clasp that holds the solvent trap in place does not actually need to be tightened. The vacuum is not as good as you might think, even at the best of times (it's called the low vac for a reason), so the little clasp is not going to make it noticeably better. It will also not fall, even if the trap is quite full of solvent.
 
 If the bumpguard is stuck and you can't pull it off, it probably has solvent in the joint and you should just heat it with a heat gun for a while to get it to evaporate.
 
@@ -40,11 +40,11 @@ If the bumpguard is stuck and you can't pull it off, it probably has solvent in 
 
 When a solution evaporates too quickly, it will start to bubble violently. This is called 'bumping'. The bump guard is there to ensure if anything does bump, you can catch it and return it to the flask without it contaminating the rest of the rotavap (wow, who'd've guessed?).
 
-To avoid bumping, make sure you decrease the pressure *slowly*, especially as you approach the vacuum pressure of the solvent. Be very cautious if you go below that pressure and keep an eye on the flask: one mbar is enough to set things off sometimes. Bumping is reduced by increasing the rotation speed and if you see bumping, decrease the pressure immediately (even a few mbar will do) and increase the rotation speed (within reason, don't go to max if your flask is very full). It is wise to ensure you start spinning at a high pressure (700-800 mbar) before decreasing the pressure further. High temperatures will also cause bumping, but usually only in combination with low pressure. Obviously, if you increase the temperature and it starts to boil, lower the bath temperature, but also lower the vacuum because the water temperature will take a while to decrease.
+To avoid bumping, make sure you decrease the pressure *slowly*, especially as you approach the vacuum pressure of the solvent. Be very cautious if you go below that pressure and keep an eye on the flask: one mbar is enough to set things off sometimes. Bumping is reduced by increasing the rotation speed and if you see bumping, raise the pressure immediately (even a few mbar will do) and increase the rotation speed (within reason, don't go to max if your flask is very full). It is wise to ensure you start spinning at a high pressure (700-800 mbar) before decreasing the pressure further. High temperatures will also cause bumping, but usually only in combination with low pressure. Obviously, if you increase the temperature and it starts to boil, lower the bath temperature, but also lower the vacuum because the water temperature will take a while to decrease.
 
 Always lower the pressure before you stop spinning to prevent bumping. Bumping can also lead to specks of compound flying about, so even if the solvent is almost fully gone you should be very careful about reducing the pressure too much and too fast.
 
-Do not leave a rotavap unattended. This usually ends badly. If you must go, please ensure you are using very mild conditions. A rotavap can only work so fast, so please do not force it to go faster and faster because down that path lies bumping.
+Do not leave a rotavap unattended. This usually ends badly*. If you must go, please ensure you are using very mild conditions (i.e. not too high temperature, vacuum pressure close to the recommended pressure). A rotavap can only work so fast, so please do not force it to go faster and faster because down that path lies bumping.
 
 <h1>Attaching and Removing Flasks</h1>
 
@@ -52,5 +52,7 @@ Flasks will often float due to buoyancy, but this is not a given, especially in 
 
 When removing the flask, decrease the pressure before stopping spinning. Hold your hand below the neck to catch it in case it falls as the pressure decreases. Remove it only when the pressure has reached 900 mbar or above, especially if you still have liquid inside: trying to pull it out sooner will cause the liquid to shoot up into the bump guard.
 
-Have fun and empty the solvent trap!
+Have fun and empty the solvent trap!\
 Stephen
+
+*I had to put up a sign telling people not to use my rotavap without permission after someone used it, left it unattended and then came back to find not only that it had bumped but the compound-and-solvent-filled bump guard was stuck and not coming off. In the end I got sprayed with compound-infused toluene when someone else tried to extract the liquid out with a cannula and a syringe and then when that same other person removed the condenser to get a better grip for pulling off the bump guard, the rubber seal (which was presumably getting old) no longer worked and the rotavap could not hold a vacuum when the condenser was replaced. It was not a good day to say the least.
