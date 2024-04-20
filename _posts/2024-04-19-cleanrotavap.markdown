@@ -10,7 +10,7 @@ Rotavaps are possibly one of the most essential pieces of equipment in a lab and
 
 <h1>The Water Bath</h1>
 
-The water bath of a rotavap is a disgusting thing even at the best of times as it will tend to collect dust and dirt. Samples that fall in should be collected and extracted with a sep funnel if possible. This is less to salvage your yield (because you really should purify it again if it falls in, I mean, I would probably just start afresh honestly) than it is about not leaving chemicals sitting about, especially volatile solvents.
+The water bath of a rotavap is a disgusting thing even at the best of times as it will tend to collect dust and dirt. Samples that fall in should be collected and extracted with a sep funnel if possible. This is less to salvage your yield (because you really should purify it again if it falls in, I mean, I would probably just start afresh honestly) than it is about not leaving chemicals sitting about, especially volatile solvents. DCM (and probably any water-immiscible solvent) will boil and spit if the bath is hot, so be careful if you drop any into a hot water bath.
 
 The other major problem with the water bath is it being left on overnight. Always make sure to turn it off at the end of the day. It heats up pretty quickly, so you can even turn it off every time you finish with it and it is unlikely to cause other people much grief to restart it. Leaving it on is not only a waste of energy, but eventually the water will all evaporate and the rotavap will continue trying to heat up. I imagine this is not good for the rotavap. An evaporated rotavap is a good excuse to give it a bit of a scrub, but don't expect to get it very clean.
 
