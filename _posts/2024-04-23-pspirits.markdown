@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Petroleum Spirits"
+subtitle: "Smells like pet. spirits"
+date:   2024-04-19 17:10:00 +1000
+author: "Stephen Franzese"
+categories: solvents
+tag: solvents
+---
+
+
+|N/A|
+|:---:|
+|Petroluem spirits (petroleum ether, PET)|
+
+|  |  |
+| :----------------: | :-----------------: |
+| CAS number       | 8032-32-4 or 8030-30-6 |
+| Melting point |  Very low   |
+| Boiling point | 40-60 <sup>o</sup>C |
+|    Density    |     0.653 g/ml      |
+| Vacuum for BP at 40 <sup>o</sup>C |     atm     |
+| Dielectric constant | I'm not sure |
+| Dipole moment| Probably not worth caring about D |
+| E<sub>T</sub>(30) value | It'd be less than 40 for sure kcal/mol |
+| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>|   ppm |
+| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|   ppm |
+| <sup>1</sup>H NMR peak in DMSO |   ppm |
+| <sup>13</sup>C NMR peaks in DMSO |   ppm |
+| Main hazard  | Flammable, toxic, irritant |
+
+Petroleum spirits (also known as petroleum ether despite the fact it is *not* an ether) is a volatile mix of hydrocarbons obtained from a fraction of petroleum that boils at 40-60 <sup>o</sup>C. As it is not a defined compound, its physical properties can vary. In fact, the NMR data shown above is for hexane because it's good enough a match to check if you still have any in your samples. It is a solvent that is heavily used but which has only a few specific uses.
+
+This is *the* non-polar solvent (or at least the most non-polar solvent you will commonly use in the lab). It dissolves some things, but it is used often as an antisolvent because polar compounds hate it. It is immiscible with water and could be used in a separation, but be careful when using it due to its volatility: be sure to vent it frequently! It is also incredibly volatile: pet. spirits will evaporate quite easily if you leave a flask open. I would not use it for a recrys by itself due to the fact most things will dissolve poorly and you cannot easily heat it, but it could work if you let it slowly evaporate to trigger recrystallisation that way.
+
+Pet. spirits is used as a chromatography solvent a lot. It is used to prepare columns and is often used to separate lower polarity compounds out. If you are using a mixture of ethyl acetate and pet. spirits as your solvent system, increasing pet. spirits will cause polar compounds to elute slower. You can use a similar idea with any other chromatography solvent.
+
+Pet. spirits is very easy to remove by rotary evaporation. Drying under high vacuum will definitely remove it completely if you seen any lingering in your NMR. It is a solvent I am not afraid to test things with because I know I can undo adding it pretty easily. Adding water as an antisolvent is a bit of a risk, but pet. spirits is much less concerning.
+
+The volatility of the solvent causes most of its hazards: it is highly flammable and so its vapours can catch alight. Its fumes can cause dizziness and it is not healthy to breathe it in. Due to the exact mix varying, the precise health effects are a little hard to determine. Please do not leave bottles of it open for prolonged periods under any circumstances because you will just be losing solvent to the air.
+
+I do not believe anyone uses it as a reaction solvent because it would be very difficult to heat the reaction very high. I advise you never use it because why? Why would you want to use it? There are better low polarity solvents (e.g. toluene). If you actually need a non-polar solvent for some reason, use hexane or heptane (higher boiling points, but lower than toluene).
+
+This is a solvent that excels at its job, but it doesn't work beyond that job description: pet. spirits works hard, but knows when to delegate. I love pet. spirits. There was a time in the lab when we were using hexane instead of it and honestly, it was terrible. You can't evaporate hexane in a rotavap after being used to pet. spirits, [it's like flying economy after having tried first class](https://www.youtube.com/watch?v=d2JKXbVGq7A). Not that I've flown first class, but you get the idea.
+
+Have <sup>fun; <sup>don't <sup>oh <sup>no <sup>I'm <sup>evaporating <sup>away</sup></sup></sup></sup></sup></sup></sup>\
+Stephen
+
+**References**\
+Phyisical data obtained from: 
+NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v

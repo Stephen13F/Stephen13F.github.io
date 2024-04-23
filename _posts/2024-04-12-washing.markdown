@@ -28,6 +28,12 @@ Leave your glassware drying on paper towel, openings of rbfs etc facing down so 
 
 If something is really stuck on, you can apply some elbow grease: soak a paper towel in acetone (or any appropriate solvent), wrap it around the end of a bent spatula, then stick it in the flask and scrub. If this fails, try sonicating with solvent inside, or using a bottle brush (though you should clean that before using it on any other glassware). Sometimes I'll use detergent and solvent mixed together and scrub, or use soapy water and then pour it into my aqueous waste container. Try to avoid pouring organic compounds with questionable safety down the drain.
 
+You may notice that using after using fluoride-containing substances your flasks will have white marks you cannot remove. This is just the fluoride etching the glass and should not affect your reactions. It can eventually reduce the integrity of your vessels, but I doubt this is a very huge concern, though it might one day cause issues. It'd probably be more of a problem for things that measure volumes exactly (e.g. volumetric flasks). 
+
+<h1>Measuring Cylinders</h1>
+
+If you just used them for solvent, just rinse them out and dry them off with acetone (rinse out chlorinated waste with alcohol first). If you used some sort of aqueous solution (e.g. NaOH) then I would advise rinsing with water first (ensure water is neutralised before disposal and don't throw toxic salts down the sink) then acetone. You probably do not need to scrub with a brush though. If you used to to measure a solution of something containing an organic compound, I would probably give it a proper full wash.
+
 <h1>Glass Frits</h1>
 
 This applies to anything with fritted glass. Wash by spraying solvent and running the vacuum to suck it down (or letting it drip through). I advise a mix of solvents of different types, but usually methanol and acetone will get used. For frits which can be attached to a vacuum, add some soapy water and pull that through then rinse with distilled water followed by acetone. Make sure you empty the flask collecting the washes before and after you use water (do not pour water into your organic waste). A good solvent to end on is petroleum spirits because it will easily evaporate (glass frits are a pain to dry with an air gun): just leave it under vacuum for a while and it should be dry.
