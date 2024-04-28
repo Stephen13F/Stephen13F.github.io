@@ -59,9 +59,9 @@ The most popular bases for Suzukis are probably K<sub>2</sub>CO<sub>3</sub> or K
 
 The purpose of the base is to produce hydroxide ions which will then form oxopalladium species with Pd-OH bonds. The empty p orbital of the boron will interact with the OH while it's attached to the palladium. This guides the rest of the boronate to interact with the palladium centre, thus allowing the transmetallation to go ahead. It also has a secondary job of deprotonating phosphine salts (assuming you're not using a pre-made palladium-ligand complex). It is only after the ligand attaches that the cycle can begin and this won't happen until its lone pair has been freed of the proton attached to it. As a result, the type of base itself is not quite a big deal since as long as it is strong enough you should get both things occurring.
 
-Another base I like to use is KF. This is a weak base and so will not deprotonate the phosphine as quickly as a phosphate base would. Consequently, I stir it for 30 minutes (or more) at room temperature before heating the reaction. This ensures the ligands have a chance to attach to the palladium. It may take less time for this to occur, but waiting a half hour to an hour is a pretty safe bet. In the case of fluoride bases, you actually get the F<sup>-1</sup> attaching to the Pd complex to form a fluoropalladium species (i.e. with a Pd-F bond) and this will have the same role as the hydroxy group. There probably is some hydroxide around and you'd get the oxopalladium species forming too.
+Another base I like to use is KF. This is a weak base and so will not deprotonate the phosphine as quickly as a phosphate base would. Consequently, I stir it for 30 minutes (or more) at room temperature before heating the reaction. This ensures the ligands have a chance to attach to the palladium. It may take less time for this to happen, but waiting a half hour to an hour is a pretty safe bet. In the case of fluoride bases, you actually get the F<sup>-</sup> attaching to the Pd complex to form a fluoropalladium species (i.e. with a Pd-F bond) and this will have the same role as the hydroxy group. There probably is some hydroxide around and you'd get the oxopalladium species forming too.
 
-I use KF mostly when I use 4-hydroxyphenylboronic acid as a substrate. In this case, the phenol can be deprotonated and this deactivates the boronic acid (recall that its reactivity is dependent on boron's p orbital being empty). I also use twice the equivalent of KF compared to a phosphate base because it can only remove one proton per F<sup>-1</sup>, while PO<sub>4</sub><sup>-3</sup> can abstract two (or three even, but it gets harder with each proton you add). Typically, I use approximately 4 equivalents of KF or 2 equivalents of K<sub>3</sub>PO<sub>4</sub>. I usually just use a volume of base that is easy to measure and which gives roughly the right equivalence; it's not a big deal if it's not exact.
+I use KF mostly when I use 4-hydroxyphenylboronic acid as a substrate. In this case, the phenol can be deprotonated and this deactivates the boronic acid (recall that its reactivity is dependent on boron's p orbital being empty). I also use twice the equivalent of KF compared to a phosphate base because it can only remove one proton per F<sup>-</sup>, while PO<sub>4</sub><sup>3-</sup> can abstract two (or three even, but it gets harder with each proton you add). Typically, I use approximately 4 equivalents of KF or 2 equivalents of K<sub>3</sub>PO<sub>4</sub>. I usually just use a volume of base that is easy to measure and which gives roughly the right equivalence; it's not a big deal if it's not exact.
 
 In general it is not obvious when phosphate or fluoride bases will work better, so it is wise to try both. Even if you think theoretically one should be better, it is still good to test it in reality.
 
@@ -69,7 +69,7 @@ I have read that most common bases will work for Suzukis: hydroxides, alkoxides,
 
 <h1>The Palladium Source</h1>
 
-There are a few ways you can introduce the palladium into the reaction. The palladium can be either Pd<sup>0</sup> or Pd<sup>+2</sup>. The former is good because that's what you need it to be to start the cycle, while the latter will need to be reduced first (either by oxidising some phosphine with oxygen or by homocoupling two boronic acids). On the other hand, some Pd<sup>0</sup> sources are not stable (e.g. Pd(PPh<sub>3</sub>)<sub>4</sub>, which will decompose in air and needs to be stored in the fridge) while Pd<sup>+2</sup> can be very stable (e.g. Pd(OAc)<sub>2</sub>). You can also have precatalysts which are Pd<sup>+2</sup> that contain the desired ligand already attached, but which still need to be reduced.
+There are a few ways you can introduce the palladium into the reaction. The palladium can be either Pd<sup>0</sup> or Pd<sup>2+</sup>. The former is good because that's what you need it to be to start the cycle, while the latter will need to be reduced first (either by oxidising some phosphine with oxygen or by homocoupling two boronic acids). On the other hand, some Pd<sup>0</sup> sources are not stable (e.g. Pd(PPh<sub>3</sub>)<sub>4</sub>, which will decompose in air and needs to be stored in the fridge) while Pd<sup>2+</sup> can be very stable (e.g. Pd(OAc)<sub>2</sub>). You can also have precatalysts which are Pd<sup>2+</sup> that contain the desired ligand already attached, but which still need to be reduced.
 
 My favourite is Pd<sub>2</sub>dba<sub>3</sub>. It is a Pd<sup>0</sup> species that is stable at room temperature and not very air sensitive (though it is wiser to store it under nitrogen to be safe, I have always found it to work fine just sitting on the bench). You just add the desired ligand to the flask separately and the complex should form in solution once the base is added (see above).
 
@@ -141,7 +141,7 @@ As you try things, you will be able to eliminate certain combinations (e.g. if S
 
 <h1>By-Products</h1>
 
-Homocoupling (where two boronic acids join with bonds forming in place of the C-B bond) will occur if there is some sort of oxidation that can occur (e.g. oxygen in the reaction, using a Pd<sup>+2</sup> palladium source, etc). This is one of the main reasons you want air out of the reaction.
+Homocoupling (where two boronic acids join with bonds forming in place of the C-B bond) will result if there is some sort of oxidation that can happen (e.g. oxygen in the reaction, using a Pd<sup>2+</sup> palladium source, etc). This is one of the main reasons you want air out of the reaction.
 
 The boronic acid can be oxidised to OH (hydroxydeborylation) which again requires an oxidant.
 
@@ -151,7 +151,7 @@ Oxygen is not all bad, since it can actually activate the palladium catalyst. I 
 |:---:|
 |Some of the things oxygen can do when in a SM cross-coupling reaction.|
 
-You can also get dehalogenation of the halide. This happens after oxidative addition when the palladium oxidises something else (like an amine or an alcohol). I suppose this is a risk that can occur when using amine bases or alcohols as (co)solvents. I've never noticed it but I've never used alcohols or amines in my Suzukis.
+You can also get dehalogenation of the halide. This occurs after oxidative addition when the palladium oxidises something else (like an amine or an alcohol). I suppose this is a risk that can occur when using amine bases or alcohols as (co)solvents. I've never noticed it but I've never used alcohols or amines in my Suzukis.
 
 Essenntially, if you keep your reaction very air-free, there should not be many issues with by-products. Keeping in mind the structures of these potential side-products will help you work out how to separate them if you do happen to get a large amount of them.
 
