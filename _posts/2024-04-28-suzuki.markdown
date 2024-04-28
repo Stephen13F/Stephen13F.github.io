@@ -47,9 +47,9 @@ Finally, you get reductive elimination of your coupled species and the palladium
 
 This will be used in excess. I typically use 1.3 equivalents per coupling, less (1 eq.) if I am trying to do a selective coupling (see the section on halides).
 
-Most commonly, this will be a boronic acid. These often form trimers (boroxines) but will return to being boronic acids before the reaction starts. They can photodeborylate (lose the B(OH)<sub>2</sub>) though, so often people will make esters (pinacol or catechol are the most common) of the boronic acid. This ester gets hydrolysed during the reaction before it can take part in the cross-coupling. I have never had an issue with photodeborylation and it is most common with heteroarylbpronic acids, particularly if the B is on the carbon adjacent to the heteroatom or if the heteroatom can be protonated. I used pyridinyl boronic acid just kept in the toxics cupboards and that worked fine even though the nitrogen can be protonated.
+Most commonly, this will be a boronic acid. These often form trimers (boroxines) but will return to being boronic acids before the reaction starts. They can photodeborylate (lose the B(OH)<sub>2</sub>) though, so often people will make esters (pinacol or catechol are the most common) of the boronic acid. This ester gets hydrolysed during the reaction before it can take part in the cross-coupling. I have never had an issue with photodeborylation and it is most common with heteroarylboronic acids, particularly if the B is on the carbon adjacent to the heteroatom or if the heteroatom can be protonated. I used pyridinyl boronic acid just kept in the toxics cupboards and that worked fine even though the nitrogen can be protonated.
 
-Other esters exist which have a group that coordinates to the boron, like MIDA, where an amine donates electrons to the empty p orbital of boron. These are apparently even more stable, so much so they can be puriffied on a column unlike other boronic acid esters. I haven't ever really had much contact with them personally. They too need to be hydrolysed before cross-coupling. It's possible to use MIDA and other such coordinating esters to protect a boronic acid so that an unprotected boronic acid also present in the reaction will react preferentially. I believe ultimately this is limited by the fact that there will be water in the reaction and the MIDA could hydrolyse and thus react too.
+Other esters exist which have a group that coordinates to the boron, like MIDA, where an amine donates electrons to the empty p orbital of boron. These are apparently even more stable, so much so they can be purified on a column unlike other boronic acid esters. I haven't ever really had much contact with them personally. They too need to be hydrolysed before cross-coupling. It's possible to use MIDA and other such coordinating esters to protect a boronic acid so that an unprotected boronic acid also present in the reaction will react preferentially. I believe ultimately this is limited by the fact that there will be water in the reaction and the MIDA could hydrolyse and thus react too.
 
 Trifluoroborates can also be used. I think they can act like a protecting group too. I read that they're not very soluble in organic solvents and you can't really use them with chromatography. They can recrystallise well though.
 
@@ -121,7 +121,7 @@ The Suzuki reaction is sensitive to oxygen, so all liquids must be sparged with 
 
 When you have weighed the solids and added them to the flask, you can remove the outlet needle. You can keep the nitrogen flowing into the liquids.
 
-A word about the flask: you can use an rbf, but there also exist pear shaped Schlenk flasks which I quite like to use. These have long necks which can act a bit like a condenser if you heat the solvent close to its bp, but be careful. They also have a spout you can connect to a Schlenk line. Otherwise, when using an rbf, you use a condensor topped with a suba seal into which you poke needles to connect to the Schlenk line. When screening Suzukis, I use microwave vials sealed with vial caps. These should not pop off even if the pressure gets very high due to volatile solvents.
+A word about the flask: you can use an rbf, but there also exist pear shaped Schlenk flasks which I quite like to use. These have long necks which can act a bit like a condenser if you heat the solvent close to its BP, but be careful. They also have a spout you can connect to a Schlenk line. Otherwise, when using an rbf, you use a condensor topped with a suba seal into which you poke needles to connect to the Schlenk line. When screening Suzukis, I use microwave vials sealed with vial caps. These should not pop off even if the pressure gets very high due to volatile solvents.
 
 Make sure you put your stirrer bar in the flask now.
 
@@ -165,7 +165,7 @@ The rest of the work-up will depend on your product. There should not be much li
 
 <h1></h1>
 
-Like I said at the start, there is a lot to consider in a Suzuki. This is not an exhaustive list of all possible conditions and it is massively long. The key is to test and see what works. Try to avoid just doing whatever and never be satisfied with poor conversions and low yields. Suzukis should be very high-yielding reactions and if yours isn't you just haven't screened enough conditions.
+Like I said at the start, there is a lot to consider in a Suzuki. This is not an exhaustive list of all possible conditions and even then it is already massively long. The key is to test and see what works. Try to avoid just doing whatever and never be satisfied with poor conversions and low yields. Suzukis should be very high-yielding reactions and if yours isn't you just haven't screened enough conditions.
 
 Have fun; don't forget to add water (and your stirrer bar)!\
 Stephen
@@ -173,4 +173,4 @@ Stephen
 References:\
 All figures (except the locket gif, that's mine) were taken from [Nicolau Saker Neto's PhD thesis](https://minerva-access.unimelb.edu.au/items/ecd4d873-da61-5caa-9676-8ed95a48d000). It was also a source for some of the explanations given here.\
 Personal correspondence with Nicolau also helped me write this.\
-This [guide](https://www.yonedalabs.com/post/suzuki-miyaura-cross-coupling-practical-guide) from Yoneda Labs was also used, particularly for describing conditions I haven't used.
+This [guide](https://www.yonedalabs.com/post/suzuki-miyaura-cross-coupling-practical-guide) from Yoneda Labs was also used, particularly for describing conditions I haven't tried.
