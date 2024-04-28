@@ -81,9 +81,9 @@ As I mentioned at the start, one of the most popular ligands for these reactions
 
 My favourite ligand is P(tBu)<sub>3</sub>. It has never really failed me yet. Another good ligands is PCy<sub>3</sub>. If you test those two, you should have a 95% chance of a typical Suzuki working. SPhos is a popular option which is likely to generate at least some product. A less common ligand is BI-DIME which is used for couplings involving very bulky substrates. P(*o*-tolyl)<sub>3</sub> is a lot like PPh<sub>3</sub> and the only reason I would use it is for selective Suzuki couplings (see the section on halides).
 
-There are many, many more. The more electron-rich the ligand, the more easily it can perform oxidative addition, while the more bulky it is the more easily it can do the transmetallation. This is why P(tBu)<sub>3</sub> works so well: being an alkylphosphine ligand, it is quite electron rich, and the *tert*-butyl groups are bulky.
+There are many, many more. The more electron-rich the ligand, the more easily it can perform oxidative addition, while the more bulky it is the more easily it can do the transmetallation. This is why P(tBu)<sub>3</sub> works so well: being an alkylphosphine ligand, it is quite electron rich and the *tert*-butyl groups are bulky.
 
-If you a following a procedure which does not use P(*o*-tolyl)<sub>3</sub>or PPh<sub>3</sub> ligands, consider getting that specific ligand, but first screen with P(tBu)<sub>3</sub> and PCy<sub>3</sub>. Just please, do not use Pd(PPh<sub>3</sub>)<sub>4</sub>.
+If you a following a procedure which does not use P(*o*-tolyl)<sub>3</sub> or PPh<sub>3</sub> ligands, consider getting that specific ligand, but first screen with P(tBu)<sub>3</sub> and PCy<sub>3</sub>. Just please, do not use Pd(PPh<sub>3</sub>)<sub>4</sub>.
 
 <h1>The Halide</h1>
 
