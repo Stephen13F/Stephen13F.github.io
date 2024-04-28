@@ -1,0 +1,176 @@
+---
+layout: post
+title:  "Suzuki-Miyaura Cross Couplings"
+subtitle: "Just add water"
+date:   2024-04-28 21:50:00 +1000
+author: "Stephen Franzese"
+categories: reactions
+tags: reactions
+---
+|![mybeloved](/assets/suzuki.gif)|
+|:---:|
+|Suzuki-Miyaura cross couplings my beloved.|
+
+I really like SM cross couplings (which I'll refer to as Suzukis from now on. Full credit to Miyaura, but it's a mouthful to say both names). They are the bread and butter of my synthesis. They make my reactions feel like jigsaw puzzles, and I've loved jigsaws since I was three so that's perfect for me.
+
+The reaction creates a C-C bond between two sp<sup>2</sup> hybridised carbons by using a halide and a boronic acid. Pseudo halides (e.g. tosylates) can be used instead of the halide. The reaction is catalysed by palladium complexed to ligands and a base. It is a very complex system and there are *many* variations you can make to a reaction when optimising it. I do not intend to go into great depth here because I cannot do this reaction justice: my knowledge is good, but still rather shallow. All I want to do here is ensure people appreciate this reaction and learn to avoid a few common mistakes. Saying that, there is still a lot to go over so this post will still be very detailed and very long.
+
+A very popular set of conditions for this reaction is Pd(PPh<sub>3</sub>)<sub>4</sub> ((tetrakis triphenylphosphine)palladium(0)), a carbonate base (e.g. K<sub>2</sub>CO<sub>3</sub>) and toluene for the solvent, often using large excess of the boronic acid. This is absolute trash; do not do this. If *anyone* reports this method in a procedure you are following DO NOT DO IT! I said pet, I said love, I said pet, I said please, I said try different conditions because this WILL NOT WORK (or at least not well).
+
+I was taught Suzuki coupling from a master of Suzukis, a man who essentially dedicated his PhD to this reaction: Nicolau Saker Neto. Almost all I know I learned from him. I will outline here some principles that he told me and I hope by learning these you can make better judgements for your own reactions.
+
+There is no one correct answer for a Suzuki, but there are wrong answers.
+
+Many people choose the wrong answer; please do not be like them.
+
+<h1>The Mechanism</h1>
+
+Before we start, it is best we appreciate what exactly is going on in the reaction.
+
+|![smmechanism](/assets/suzukimech.png)|
+|:---:|
+|A simplified catalytic cycle of the Suzuki-Miyaura cross coupling reaction.|
+
+The reaction begins with a Pd<sup>0</sup> species which undergoes oxidative addition with the halide (R<sup>1</sup>-X). This is followed by the transmetallation step which involves the boronic acid/ester (R<sup>2</sup>-B(OR)<sub>2</sub>).
+
+It is this transmetallation which is the rate determining step for the vast majority of SM cross-couplings. There are two proposed mechanisms, but in either case a lone pair of electrons from a hydroxide (either free or attached to the Pd complex) interacts with the empty p orbital of the boron.
+
+|![pathways](/assets/boronicpaths.png)|
+|:---:|
+|The two proposed mechanisms for the transmetalation step.|
+
+The issues that arise from this will be discussed in later sections, but it is often rare for undergraduate text books to really highlight the importance of the transmetallation and they instead focus on the oxidative addition. While that step can be difficult for some cases, there are ways to work around it and in general a relatively slow oxidative addition will not stop your Suzukis from working if you select your conditions well.
+
+Finally, you get reductive elimination of your coupled species and the palladium once again returns to its 0 oxidation state, restarting the cycle.
+
+<h1>The Boron-Containing Species</h1>
+
+This will be used in excess. I typically use 1.3 equivalents per coupling, less (1 eq.) if I am trying to do a selective coupling (see the section on halides).
+
+Most commonly, this will be a boronic acid. These often form trimers (boroxines) but will return to being boronic acids before the reaction starts. They can photodeborylate (lose the B(OH)<sub>2</sub>) though, so often people will make esters (pinacol or catechol are the most common) of the boronic acid. This ester gets hydrolysed during the reaction before it can take part in the cross-coupling. I have never had an issue with photodeborylation and it is most common with heteroarylbpronic acids, particularly if the B is on the carbon adjacent to the heteroatom or if the heteroatom can be protonated. I used pyridinyl boronic acid just kept in the toxics cupboards and that worked fine even though the nitrogen can be protonated.
+
+Other esters exist which have a group that coordinates to the boron, like MIDA, where an amine donates electrons to the empty p orbital of boron. These are apparently even more stable, so much so they can be puriffied on a column unlike other boronic acid esters. I haven't ever really had much contact with them personally. They too need to be hydrolysed before cross-coupling. It's possible to use MIDA and other such coordinating esters to protect a boronic acid so that an unprotected boronic acid also present in the reaction will react preferentially. I believe ultimately this is limited by the fact that there will be water in the reaction and the MIDA could hydrolyse and thus react too.
+
+Trifluoroborates can also be used. I think they can act like a protecting group too. I read that they're not very soluble in organic solvents and you can't really use them with chromatography. They can recrystallise well though.
+
+<h1>The Base</h1>
+
+The most popular bases for Suzukis are probably K<sub>2</sub>CO<sub>3</sub> or K<sub>3</sub>PO<sub>4</sub>. I don't think there is a particular benefit of one over the other (I guess the carbonate can decompose into CO<sub>2</sub> which would lead to pressure build-up, which would be bad). I typyically use K<sub>3</sub>PO<sub>4</sub>.
+
+The purpose of the base is to produce hydroxide ions which will then form oxopalladium species with Pd-OH bonds. The empty p orbital of the boron will interact with the OH while it's attached to the palladium. This guides the rest of the boronate to interact with the palladium centre, thus allowing the transmetallation to go ahead. It also has a secondary job of deprotonating phosphine salts (assuming you're not using a pre-made palladium-ligand complex). It is only after the ligand attaches that the cycle can begin and this won't happen until its lone pair has been freed of the proton attached to it. As a result, the type of base itself is not quite a big deal since as long as it is strong enough you should get both things occurring.
+
+Another base I like to use is KF. This is a weak base and so will not deprotonate the phosphine as quickly as a phosphate base would. Consequently, I stir it for 30 minutes (or more) at room temperature before heating the reaction. This ensures the ligands have a chance to attach to the palladium. It may take less time for this to occur, but waiting a half hour to an hour is a pretty safe bet. In the case of fluoride bases, you actually get the F<sup>-1</sup> attaching to the Pd complex to form a fluoropalladium species (i.e. with a Pd-F bond) and this will have the same role as the hydroxy group. There probably is some hydroxide around and you'd get the oxopalladium species forming too.
+
+I use KF mostly when I use 4-hydroxyphenylboronic acid as a substrate. In this case, the phenol can be deprotonated and this deactivates the boronic acid (recall that its reactivity is dependent on boron's p orbital being empty). I also use twice the equivalent of KF compared to a phosphate base because it can only remove one proton per F<sup>-1</sup>, while PO<sub>4</sub><sup>-3</sup> can abstract two (or three even, but it gets harder with each proton you add). Typically, I use approximately 4 equivalents of KF or 2 equivalents of K<sub>3</sub>PO<sub>4</sub>. I usually just use a volume of base that is easy to measure and which gives roughly the right equivalence; it's not a big deal if it's not exact.
+
+In general it is not obvious when phosphate or fluoride bases will work better, so it is wise to try both. Even if you think theoretically one should be better, it is still good to test it in reality.
+
+I have read that most common bases will work for Suzukis: hydroxides, alkoxides, amines. I have never tried them because I've never needed to. Just make sure that whatever you choose it is suitable for the substrates and the solvent. Consider as well its conjugate acid's pKa so you know how strong of a base it is (a higher pKa means it is a stronger base).
+
+<h1>The Palladium Source</h1>
+
+There are a few ways you can introduce the palladium into the reaction. The palladium can be either Pd<sup>0</sup> or Pd<sup>+2</sup>. The former is good because that's what you need it to be to start the cycle, while the latter will need to be reduced first (either by oxidising some phosphine with oxygen or by homocoupling two boronic acids). On the other hand, some Pd<sup>0</sup> sources are not stable (e.g. Pd(PPh<sub>3</sub>)<sub>4</sub>, which will decompose in air and needs to be stored in the fridge) while Pd<sup>+2</sup> can be very stable (e.g. Pd(OAc)<sub>2</sub>). You can also have precatalysts which are Pd<sup>+2</sup> that contain the desired ligand already attached, but which still need to be reduced.
+
+My favourite is Pd<sub>2</sub>dba<sub>3</sub>. It is a Pd<sup>0</sup> species that is stable at room temperature and not very air sensitive (though it is wiser to store it under nitrogen to be safe, I have always found it to work fine just sitting on the bench). You just add the desired ligand to the flask separately and the complex should form in solution once the base is added (see above).
+
+Pd(OAc)<sub>2</sub> is used for ligands like SPhos and BI-DIME, so be aware that it might be the better choice.
+
+<h1>The Ligand</h1>
+
+As I mentioned at the start, one of the most popular ligands for these reactions is triphenylphosphine. That's great, but we're not in the 70s anymore. New ligands exist and they are *much* better. If I ever use PPh<sub>3</sub>, I have either been replaced by some sort of changeling or alien (in which case you should notify the authorities or kill me), or I purposefully want my Suzuki to go poorly. The latter is more likely than you'd think (so please check about this before killing me). *But even then*, I would probably use P(*o*-tolyl)<sub>3</sub>. You may wonder why in the world anyone would want a Suzuki to go poorly. I'll discuss this in the section about halides.
+
+My favourite ligand is P(tBu)<sub>3</sub>. It has never really failed me yet. Another good ligands is PCy<sub>3</sub>. If you test those two, you should have a 95% chance of a typical Suzuki working. SPhos is a popular option which is likely to generate at least some product. A less common ligand is BI-DIME which is used for couplings involving very bulky substrates. P(*o*-tolyl)<sub>3</sub> is a lot like PPh<sub>3</sub> and the only reason I would use it is for selective Suzuki couplings (see the section on halides).
+
+There are many, many more. The more electron-rich the ligand, the more easily it can perform oxidative addition, while the more bulky it is the more easily it can do the transmetallation. This is why P(tBu)<sub>3</sub> works so well: being an alkylphosphine ligand, it is quite electron rich, and the *tert*-butyl groups are bulky.
+
+If you a following a procedure which does not use P(*o*-tolyl)<sub>3</sub>or PPh<sub>3</sub> ligands, consider getting that specific ligand, but first screen with P(tBu)<sub>3</sub> and PCy<sub>3</sub>. Just please, do not use Pd(PPh<sub>3</sub>)<sub>4</sub>.
+
+<h1>The Halide</h1>
+
+This is the limiting reagent in your coupling. Different halides react better in Suzukis (and for different reasons). The best is bromo and a Suzuki using it should really reach full conversion if you play around with the conditions enough.
+
+One thing that causes chlorides, bromides and iodides to react differently is the oxidative addition step: Cl struggles the most with this, Br can do it fine and I does it the easiest. However, iodo couplings are not as good as bromo because in 99% of cases, the limiting step in a Suzuki coupling is the transmetallation, not​ the oxidative addition. The exception to this is if you choose a very inefficient catalyst system (e.g. Pd<sub>2</sub>dba<sub>3</sub>/P(*o*-tolyl)<sub>3</sub> (1:2) or Pd(PPh<sub>3</sub>)<sub>4</sub>). In this case, the oxidative addition will likely be the rate determining step.
+
+This is useful because it allows us to exploit the differences in Cl and Br oxidative addition ability. Chloros find oxidative addition to be substantially harder (almost impossible) using very inefficient catalytic systems unless it is very strongly activated (e.g. if the chloro group is attached to a very electron-poor aryl ring) or you use very forcing conditions (110<sup>o</sup>C or higher). As a result, if you use a substrate with both chloro and bromo groups and inefficient conditions, you should obtain coupling to the bromide first and little to no coupling on the chloride.
+
+I have done a selective coupling with 66% yield. It used 4-bromo-2,6-dichlorophenol and I used my very standard conditions of Pd<sub>2</sub>dba<sub>3</sub>, P(tBu)<sub>3</sub>, 2 M K<sub>3</sub>PO<sub>4</sub><sub>(aq)</sub> and THF, refluxed at 65 <sup>o</sup>C. To illustrate how selective it is, I never saw any side product that contained Br: any coupling to one of the Cls occurred *after* coupling to the Br. I also never saw any triply-coupled product. In my case the small amount of over-coupling was not too big a deal as I could easily separate it via flash chromatography. This may not be as easy for you and so you should test less efficient systems as well. I should also note that when I did this I was a bit pressed for time and so did not test other conditions very thoroughly.
+
+As this example highlights, while Cl is worse at coupling, it is not impossible to couple to it. Modern catalytic systems with ligands like P(tBu)<sub>3</sub>, PCy<sub>3</sub> and SPhos can do it well. Nicolau says he did a double chloro Suzuki coupling achieving over 90% yield (10 g scale, 0.5 mol% Pd). In his case though,the substrate was 2,6-dichloropyridine, where the chloros were activated by the nitrogen which withdraws electron density from the positions of the chloro groups.
+
+You may wonder why not use iodo? Why is it worse than bromo? I believe it is because of the transmetallation step. I've seen papers where the catalyst system can essentially be trapped in the middle of the transmetallation step when using iodides; these complexes are so stable they can be isolated like this. Hence iodo couplings will often perform worse than equivalent bromo couplings. A result of this is bromo/iodo selectivity is not great, probably because they each have advantages over the other and while iodo will get onto the cycle quicker, it won't go all the way through (i.e. do the transmetallation) except at conditions where the bromo will start undergoing oxidative addition as well. I hear that this is due to the iodide being a softer ligand than bromide and hence it strongly binds to the palladium (i.e. it 'poisons' the Pd and slows down the cycle). I have even seen a case where bromo was preferred over iodo (which exploited this poisoning of the Pd), so trying to selectively couple like this is essentially consigning yourself to a 50% chance of success (though you can get better yields, it's hard to get to the +70% you should be achieving). You could probably try iodo/chloro selectivity and get better results. I advise that any selective coupling you try involve chlorides.
+
+You can also use pseudo halides (e.g. tosylates, triflates). Triflates work quite well. Tosylates and mesylates are a bit like chlorides and will not undergo oxidative addition as easily as bromides. I see potential for selectivity, but I've never had cause to try using any of these.
+
+<h1>The Solvent</h1>
+
+People have reported 'anhydrous' conditions for Suzuki couplings. I laugh. Ha. Very funny.
+
+Please do not try this: the Suzuki reaction needs water. If you do your Suzuki in pure toluene, you are misguided. If you dry your solvent before a Suzuki, you are a fool. The best choice is either a water miscible solvent or a cosolvent or phase transfer agent that helps bring water into the organic phase. The reason people manage Suzukis without adding water is likely because there is some lingering in their base or solvent. The reaction only needs a small amount of water to work at all, but there's no harm in adding a sizeable amount of it.
+
+My favourite solvent for Sukukis is THF. It is water miscible so I can use aqueous solutions of base. If the reaction seems slow, then it might be a good idea to try dioxane instead: this has a much higher boiling point and so you can raise your temperature greatly. Even so, consider screening other conditions (base, ligand etc) first before changing the solvent because it will be harder to evaporate.
+
+An alternative is toluene/ethanol/water (5:1:1) or toluene and water with Aliquat (1-5% by volume). There is no particularly good reason to use toluene over dioxane (its BP is only an extra 10<sup>o</sup>C higher) unless your compound is insoluble in dioxane (which it may very well be if it is a large aromatic compound).
+
+Alcohols are also (apparently) very good solvents (methanol, ethanol, *tert*-amyl alcohol), provided your compound dissolves in them. I have never tried them because THF has usually worked well, but I must admit there are times I have considered them. I imagine if using them you wouldn't really need to add much water because water should already be present in the solvent (unless you just opened the bottle five seconds ago). The base would still need to dissolve though.
+
+I have read of other solvents you can use (DMSO, DMF, DMAc, BuOAc, iPrOAc, among others), but I doubt they will be much better than any of the previously-suggested solvent systems (from both a reaction perspective and a work-up perspective).
+
+<h1>Set Up</h1>
+
+The Suzuki reaction is sensitive to oxygen, so all liquids must be sparged with nitrogen befoore use (I usually set the sparging going before I weigh my solids so by the time I'm done with them it's ready). You close a flask of the liquid with a suba seal, stick in a long needle connected to a nitrogen line and a short needle that is just open to air. The long needle goes into the solvent and will bubble nitrogen into the liquid, displacing oxygen. Since oxygen weighs less, it will rise and eventually flow out of the other needle. This should take 15-30 minutes, depending on the volume of solvent. Be careful: volatile solvents like THF will evaporate during this time, so put in a bit more solvent than you expect to use and don't leave it running forever. If it does evaporate, you will have to add more and start the timer afresh.
+
+When you have weighed the solids and added them to the flask, you can remove the outlet needle. You can keep the nitrogen flowing into the liquids.
+
+A word about the flask: you can use an rbf, but there also exist pear shaped Schlenk flasks which I quite like to use. These have long necks which can act a bit like a condenser if you heat the solvent close to its bp, but be careful. They also have a spout you can connect to a Schlenk line. Otherwise, when using an rbf, you use a condensor topped with a suba seal into which you poke needles to connect to the Schlenk line. When screening Suzukis, I use microwave vials sealed with vial caps. These should not pop off even if the pressure gets very high due to volatile solvents.
+
+Make sure you put your stirrer bar in the flask now.
+
+Once you are ready with the solids, pull the needles out of the liquids, but not out of the flasks. Connect the flask with the solids to the Schlenk line and turn on the high vacuum. Wait about ten minutes then turn the tap to nitrogen. The nitrogen will flow in almost instantly; only the vacuum takes time. I advise you turn the tap *very* slowly to avoid the solids sort of blowing about and getting stuck to the sides of the vessel. You only need to turn slowly close to the ends, when the actual openings line up. If you do get solid stuck to the edges, you can usually wash it down with solvent if you squirt it in strategically. This is your last good chance to put the stirrer bar in if you forgot it because all you need to do is redo the vac/N<sub>2</sub> cycles.
+
+After you have gone from vacuum to nitrogen three times, you are ready to add the liquids. Take a syringe with a needle attached. Keep the plastic sheath on it and stick it in a tube connected to the nitrogen line. turn on the nitrogen and 'rinse' the tube with nitrogen by pulling nitrogen in and pushing out a few times. Pull in a bit and then stick the needle into one of the liquids' flasks. By doing this, you avoid introducing any oxygen via the needle. Suck up more liquid than you need, bend the needle so the syringe is pointing up. Flick the needle to get any bubbles to rise to the top and then push them out. Adjust until you have picked up the correct volume and then lift the needle out of the liquid, but keep it in the nitrogen atmosphere. Pull in some nitrogen and, while keeping the syringe pointing upwards, pull the needle fully out of the flask. Move it to the reaction flask (always pointing up) and then stick it in and push out the liquid. In this way, you have created a cushion of nitrogen that will keep out any air during the transport step. Once you have finished adding the liquids, close their lines and then remove the syringes. Extra base solution can be returned for re-use. Unused solvent is OK to re-use, but the suba seal may have tainted it a bit (it can dissolve and you will see a red stain on the neck of the flask).
+
+It is not the end of the world if you get some oxygen in your Suzuki. Nothing in the mixture should react violently with air (unless your substrates are air sensitive, but in that case you should know that already). The issue lies in the fact that oxygen can cause some undesired side reactions. I once had a reaction I accidentally set up in an rbf without a condenser and in the morning returned to find the suba seal had popped off. The reaction worked perfectly fine and with good yield, but I did see a few of the expected by-products in the mass spec. It is for this reason that, while I am very careful about air getting in, I am not overly worried if a small amount happens to end up inside the flask.
+
+If you forgot the stirrer bar and have already added your liquids, turn on the nitrogen and point it onto the opening of the flask. If you have a second person to help you, you should get them to hold the nitrogen because you will want two hands free. Otherwise hold it in place with a clamp. With one hand hold the stirrer bar while with the other start to open up the suba seal. In one fell motion, take out the suba seal, drop in the stirrer bar and close the suba seal again. Keep the nitrogen blowing onto the flask's opening and it should keep air out OK. I have done this before with no issue.
+
+<h1>Screening</h1>
+
+As I have tried to stress, it is best if you test out a few conditions on a small scale first. At the very least, test out a few ligands (P(tBu)<sub>3</sub> and PCy<sub>3</sub>, maybe SPhos too) and two bases (KF and K<sub>3</sub>PO<sub>4</sub> are good to try first) in THF. If these fail, try dioxane to get to a higher temperature (or a different solvent system if that doesn't dissolve your starting material). You can often monitor the progress of a Suzuki very easily by ESI-MS and use this to compare different conditions.
+
+As you try things, you will be able to eliminate certain combinations (e.g. if SPhos isn't working at all but the other ligands show some conversion, then there's not much point trying SPhos at a higher temperature). If you cannot find a condition that works using what I've described above, consider your substrate carefully. I think changing the ligand is most likely to give an improvement, especially if you've already tried a weak and strong base. You may need a fancier ligand. Another important thing to consider is if you've designed the best possible substrates. For example, are you trying a coupling with an iodo group that's failing and, if so, could you make it a bromo group instead? There is much to think about, but Suzukis should work well, so it is worth persevering with it.
+
+<h1>By-Products</h1>
+
+Homocoupling (where two boronic acids join with bonds forming in place of the C-B bond) will occur if there is some sort of oxidation that can occur (e.g. oxygen in the reaction, using a Pd<sup>+2</sup> palladium source, etc). This is one of the main reasons you want air out of the reaction.
+
+The boronic acid can be oxidised to OH (hydroxydeborylation) which again requires an oxidant.
+
+Oxygen is not all bad, since it can actually activate the palladium catalyst. I doubt this would help much since it'd probably cause more trouble than it'd help, and you can't really control what the oxygen will do in the reaction.
+
+|![sp](/assets/sideproducts.png)|
+|:---:|
+|Some of the things oxygen can do when in a SM cross-coupling reaction.|
+
+You can also get dehalogenation of the halide. This happens after oxidative addition when the palladium oxidises something else (like an amine or an alcohol). I suppose this is a risk that can occur when using amine bases or alcohols as (co)solvents. I've never noticed it but I've never used alcohols or amines in my Suzukis.
+
+Essenntially, if you keep your reaction very air-free, there should not be many issues with by-products. Keeping in mind the structures of these potential side-products will help you work out how to separate them if you do happen to get a large amount of them.
+
+<h1>Work Up</h1>
+
+You may notice as your reaction progresses that it turns black. This is the formation of palladium black in solution. It is a fine powder that is essentially Pd<sup>0</sup> particles. It will not dissolve in anything so it can be easily filtered out with either a short silica plug or with celite. Just be aware that it is *very* fine and so attempts at filtering it may not work 100%. You should remove it as soon as you can in the work up because it will just get in the way for everything else. Pd black is more likely to result if the ligands have not fully attached or if you have oxygen in the reaction mixture.
+
+The other big issue is the water. This you can remove with a sep funnel. I have often (especially for small scale tests) used a pipette (or a graduated pipette or, in the absence of that, a glass pipette with a syringe screwed onto the end) to draw up the water layer (as I use THF, water is denser and sinks to the bottom). This would be harder on large scales and using a solvent which is denser than water. Another issue would be that you may be using water-miscible solvents, so it may be hard to see where the exact line separating the phases is. I've also had cases where it seems the product has gone into the aqueous phase. In this case, I would add a bit of brine to help make the separation more distinct. Typically though I do not have much issue with this (probably because the base makes the water layer more polar already). After this, add MgSO<sub>4</sub> to remove any extra water and filter that off.
+
+The rest of the work-up will depend on your product. There should not be much ligand in the solution in the first place, and most of your trouble will be with separating out unreacted starting material (or over-coupled product in the case of selective Suzukis). I always like a recrys, but consider the amount of impurities, their solubilities, how the TLC looks etc.
+
+<h1></h1>
+
+Like I said at the start, there is a lot to consider in a Suzuki. This is not an exhaustive list of all possible conditions and it is massively long. The key is to test and see what works. Try to avoid just doing whatever and never be satisfied with poor conversions and low yields. Suzukis should be very high-yielding reactions and if yours isn't you just haven't screened enough conditions.
+
+Have fun; don't forget to add water (and your stirrer bar)!\
+Stephen
+
+References:\
+All figures (except the locket gif, that's mine) were taken from [Nicolau Saker Neto's PhD thesis](https://minerva-access.unimelb.edu.au/items/ecd4d873-da61-5caa-9676-8ed95a48d000). It was also a source for some of the explanations given here.\
+Personal correspondence with Nicolau also helped me write this.\
+This [guide](https://www.yonedalabs.com/post/suzuki-miyaura-cross-coupling-practical-guide) from Yoneda Labs was also used, particularly for describing conditions I haven't used.
