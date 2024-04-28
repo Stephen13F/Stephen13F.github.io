@@ -55,7 +55,7 @@ Trifluoroborates can also be used. I think they can act like a protecting group 
 
 <h1>The Base</h1>
 
-The most popular bases for Suzukis are probably K<sub>2</sub>CO<sub>3</sub> or K<sub>3</sub>PO<sub>4</sub>. I don't think there is a particular benefit of one over the other (I guess the carbonate can decompose into CO<sub>2</sub> which would lead to pressure build-up, which would be bad). I typyically use K<sub>3</sub>PO<sub>4</sub>.
+The most popular bases for Suzukis are probably K<sub>2</sub>CO<sub>3</sub> or K<sub>3</sub>PO<sub>4</sub>. I don't think there is a particular benefit of one over the other (I guess the carbonate can decompose into CO<sub>2</sub> which would lead to pressure build-up, which would be bad). I typically use K<sub>3</sub>PO<sub>4</sub>.
 
 The purpose of the base is to produce hydroxide ions which will then form oxopalladium species with Pd-OH bonds. The empty p orbital of the boron will interact with the OH while it's attached to the palladium. This guides the rest of the boronate to interact with the palladium centre, thus allowing the transmetallation to go ahead. It also has a secondary job of deprotonating phosphine salts (assuming you're not using a pre-made palladium-ligand complex). It is only after the ligand attaches that the cycle can begin and this won't happen until its lone pair has been freed of the proton attached to it. As a result, the type of base itself is not quite a big deal since as long as it is strong enough you should get both things occurring.
 
