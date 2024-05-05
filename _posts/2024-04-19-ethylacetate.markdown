@@ -11,7 +11,7 @@ tag: solvents
 
 |![etoac](/assets/etoac.png)|
 |:---:|
-|Ethyl acetate (ethyl ethanoate)|
+|Ethyl acetate (ethyl ethanoate, EtOAc)|
 
 |  |  |
 | :----------------: | :-----------------: |

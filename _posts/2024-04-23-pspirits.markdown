@@ -11,7 +11,7 @@ tag: solvents
 
 |N/A|
 |:---:|
-|Petroluem spirits (petroleum ether, PET)|
+|Petroluem spirits (petroleum ether, PET, pet. spirits, pet. ether)|
 
 |  |  |
 | :----------------: | :-----------------: |

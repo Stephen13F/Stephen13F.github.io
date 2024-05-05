@@ -11,7 +11,7 @@ tag: solvents
 
 |![acetone](/assets/acetone.png)|
 |:---:|
-|Acetone (2-propanone)|
+|Acetone (2-propanone, AcCH<sub>3</sub>)|
 
 |  |  |
 | :----------------: | :-----------------: |
