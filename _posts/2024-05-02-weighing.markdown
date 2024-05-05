@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weighing"
-date:   2024-04-19 23:25:00 +1000
+date:   2024-05-05 23:25:00 +1000
 author: "Stephen Franzese"
 categories: general
 tags: general
@@ -29,7 +29,17 @@ Weighing a flask is much less accurate due to the size/mass of it, but it is use
 
 <h1>Weighing Volumes</h1>
 
-This isn't much of a method or trick, but it's 
+It is more accurate to determine the mass of a liquid and calculate its volume from its density than to by using a volumetric flask. You can even weigh the solute into the vial and add the solvent into that same vial. In doing so, you avoid any loss of solute that could happen when transferring to a volumetric flask. The issue would be with very dilute solutions because you would need a very large vial or a very small amount of solute, which could make it difficult to weigh it out accurately.
 
-Have fun; don't die.\
+This technique also works quite well for measuring liquid reagents. You can weigh them into a vial or something and then rinse that vial into the reaction vessel with the solvent. Just get a pipette and drop it in, adding it slower as you approach the desired mass. Alternatively, you can tare the reaction vessel and add the liquid reagent to that, but try to do it before adding any other reagents in case you add too much and need to take it back out. If the reagent is dangerous (toxic, air sensitive, or even just stinks), then I would not do this since you should not be taking those things out of a fumehood.
+
+The purpose of this is not so much to get to the desired volume, but to accurately know the volume (which should still hopefully be close enough to the desired volume) which you did add. For this to be accurate, though, you need the density to be for the correct temperature. If the different densities give volumes that do not differ up to the number of figures you are reporting, then this is not really that big a deal, but it will put a limit on your accuracy if you don't know the temperature of the room (always have a thermometer on hand in the lab).
+
+<h1>Weighing Balance Etiquette</h1>
+
+Please keep the balance and surrounding area clean. If you spill anything onto the balance, clean it up with a brush. If more than a few grains of material has fallen, then you should take out the metal plate thing (there may be a few pieces) and clean it off properly, wiping it down with a paper towel and an appropriate solvent (probably give it a final clean with acetone so it dries off better). After doing this, the balance should be recalibrated. The method for this depends on the model of the balance.
+
+The balance should be calibrated regularly. The errors caused by not calibrating it are probably bearable if you weigh large enough masses, but if the mass weighed is very small then you really should calibrate it often. Even just doing it before weighing a very small mass (~30 mg or less) would be a good idea.
+
+Have fun; keep the balance clean!\
 Stephen
