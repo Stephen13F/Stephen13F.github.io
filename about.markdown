@@ -20,7 +20,7 @@ I am a member of the Wong Group which is a part of [the Australian Centre of Exc
 
 <h1>Publications</h1>
 
-*Coming soon*.
+[Extended Reichardt's Dye — Synthesis and Solvatochromic Properties](https://doi.org/10.1002/chem.202400314)
 
 <h1>Contact Details</h1>
 

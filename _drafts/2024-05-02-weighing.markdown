@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Weighing"
+date:   2024-04-19 23:25:00 +1000
+author: "Stephen Franzese"
+categories: general
+tags: general
+---
+
+Weighing out reagents for a reaction is such a simple skill but there are ways to improve how you do it and a lot of tricks that are useful that you may not have thought of.
+
+<h1>Weighing Vessel</h1>
+
+This is what you're putting the stuff in. The two basic options are weighing paper and weighing boats. I prefer weighing paper since it's easier to adjust. You should fold the square of weighing paper in half so that you get a triangle (i.e. diagonally so that the corners touch). This will create a little spout and it will let the solid slide nicely into your flask. After doing this, make two folds on either side of the spout. This will create walls that will prevent the solid from falling out as you pour. When making very small squares for tiny amounts of solid, you can cut little curves into these 'walls' towards the spout end. I'm going to be honest and say I never bother doing this and don't really see the point, but it's meant to make something better.
+
+|![fold](/assets/fold.png)|
+|:---:|
+|How to fold weighing paper. It's like origami, but less fun.|
+
+In the absence of weighing paper, magazine paper should do the trick.
+
+Weighing boats I tend to use only if I need to transport the solid back to my bench/hood (e.g. for NBS so I can add it in slowly) or if I am weighing a large mass and the paper would overflow. Weighing boats have built-in walls that are more rigid, which makes it easier to hold things, but it's harder to get everything to slide out neatly because there's no spout.
+
+Sometimes the situation requires a different weighing vessel. By this I mean a flask or a vial.
+
+Vials are best for weighing product so you don't lose any from weighing and transporting back and forth. This way you can weigh your solid into the vial, put it under high vac and then re-weigh it afterwards. Place your vial on the balance, tare the balance, remove the vial and write the mass down (the negative mass will show on the screen) on the vial itself. The weight of the marker should be negligible. Weigh without the vial cap because if you lose the cap your tare will not change. I don't like labelling my vials with stickers (sorry Wallace) so that I can easily check how much product I have left by weighing them.
+
+Weighing a flask is much less accurate due to the size/mass of it, but it is useful if your compound is a liquid, stuck to the side of the flask and hard to remove or just to do a quick check. You should tare your flasks like with vials, but writing the number in greylead on the inside of the neck. Wipe any excess graphite off with a paper towel. This number should be checked regularly as it will vary over time.
+
+<h1>Weighing Volumes</h1>
+
+This isn't much of a method or trick, but it's 
+
+Have fun; don't die.\
+Stephen
