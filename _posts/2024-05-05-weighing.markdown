@@ -11,11 +11,17 @@ Weighing out reagents for a reaction is such a simple skill but there are ways t
 
 <h1>Weighing Vessel</h1>
 
-This is what you're putting the stuff in. The two basic options are weighing paper and weighing boats. I prefer weighing paper since it's easier to adjust. You should fold the square of weighing paper in half so that you get a triangle (i.e. diagonally so that the corners touch). This will create a little spout and it will let the solid slide nicely into your flask. After doing this, make two folds on either side of the spout. This will create walls that will prevent the solid from falling out as you pour. When making very small squares for tiny amounts of solid, you can cut little curves into these 'walls' towards the spout end. I'm going to be honest and say I never bother doing this and don't really see the point, but it's meant to make something better.
+This is what you're putting the stuff in. The two basic options are weighing paper and weighing boats. I prefer weighing paper since it's easier to adjust. You should fold the square of weighing paper in half so that you get a triangle (i.e. diagonally so that the corners touch). This will create a little spout and it will let the solid slide nicely into your flask. After doing this, make two folds on either side of the spout. This will create walls that will prevent the solid from falling out as you pour.
 
 |![fold](/assets/fold.png)|
 |:---:|
 |How to fold weighing paper. It's like origami, but less fun.|
+
+When making very small squares for tiny amounts of solid, you can cut little curves into these 'walls' towards the spout end. I'm going to be honest and say I never bother doing this and don't really see the point, but I think it's meant to make the spout fit into the vial better, thereby avoiding anything slipping out and making it easier to shake it in.
+
+|![cut](/assets/cut.png)|
+|:---:|
+|How to cut weighing paper for very small masses.|
 
 In the absence of weighing paper, magazine paper should do the trick.
 
