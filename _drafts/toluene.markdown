@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Toluene"
-subtitle: ""
+subtitle: "The 'safe' benzene"
 date:   2024-04-11 17:30:00 +1000
 author: "Stephen Franzese"
 categories: solvents
@@ -28,17 +28,17 @@ tag: solvents
 | <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|  ppm |
 | <sup>1</sup>H NMR peak in DMSO |  ppm |
 | <sup>13</sup>C NMR peaks in DMSO |  ppm |
-| Main hazard  | Carcingoenic, flammable |
+| Main hazards  | Toxic, flammable |
 
 I used to think toluol was an alternative name for phenol, or, I dunno, *P*-methylphenol or something. But it's actually toluene. The more you know. I think toluene smells warm. It's an oddly alluring yet unsettling smell and given toluene's hazards, it's not something I (or you) want to be smelling.
 
-It is a non-polar solvent (apparently it's less polar than the more symmetrical benzene), but it's aromatic ring gives it more solubilising power than one might expect of a compound containing nothing but hydrogen and carbon. It is actually quite a strong solvent, but I probably think this because we work with so many aromatic compounds and I expect phenyl rings interact well with it (*similia similibus solventur* and all that jazz).
+It is a non-polar solvent (apparently it's less polar than the more symmetrical benzene), but it's aromatic ring gives it more solubilising power than one might expect of a compound containing nothing but hydrogen and carbon. It is actually quite a strong solvent, but I probably think this because we work with so many aromatic compounds and I expect phenyl rings interact well with it (*similia similibus solventur* and all that jazz). It is probably the last (sensible) resort for you if your compound is brick dust.
 
 In our old lab we used to go through litres of the stuff every week for chromatography since it is such a good solvent for columns. I personally don't use it much, if ever, but that's just out of health and safety concerns. Despite its high boiling point (higher than water's), toluene has a vapour pressure low enough that it can be removed by rotary evaporation.
 
-Toluene is a decent reaction solvent, capable of reaching quite high temperatures. Its only major faults lie in its inability to dissolve salts. It is relatively unreactive (I mean, it can undergo electrophillic aromatic substitution like any benzene derivative, but it is pretty stable).
+Toluene is a decent reaction solvent, capable of reaching quite high temperatures. Its only major fault lies in its inability to dissolve salts and very polar substances. It is relatively unreactive (I mean, it can undergo electrophillic aromatic substitution like any benzene derivative, but it is pretty stable).
 
-Toluene is less toxic than benzene. This is like saying manslaughter is a lesser crime than murder: it is still very toxic.
+Toluene is less toxic than benzene. This is like saying manslaughter is a lesser crime than murder: it is still very toxic. It's not known to be carcinogenic though, so there's that. It is also flammable, so usual fire precautions.
 
 Have fun; don't die.\
 Stephen

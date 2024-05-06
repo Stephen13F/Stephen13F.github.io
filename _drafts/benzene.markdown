@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Dimethylsulfoxide"
-subtitle: ""
+title:  "Benzene"
+subtitle: "DO NOT USE BENZENE"
 date:   2024-04-11 17:30:00 +1000
 author: "Stephen Franzese"
 categories: solvents
@@ -30,21 +30,23 @@ tag: solvents
 | <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|  ppm |
 | <sup>1</sup>H NMR peak in DMSO |  ppm |
 | <sup>13</sup>C NMR peaks in DMSO |  ppm |
-| Main hazard  | Carcingoenic, flammable |
+| Main hazards  | Carcingoenic, toxic, flammable, environmental hazard |
 
 I am warning you now: do not use benzene.
 
-This is one of the most toxic solvents you will find in the lab.
+This is one of the most toxic solvents you will find in the lab. Usually I save the health risks for the end of the post, but benzene is too serious for that. Chemists often deal with dangerous things that they handle rather cavalierly because they reason 'it's probably not x that's going to kill me'. This is not true for benzene: benzene will kill you. The only absolutely safe level of exposure to benzene is zero. It is very, very carcinogenic. it is also very flammable.
 
 Anything you want to use it for, you should use toluene instead. Just stop. PUT DOWN THE BOTTLE OF BENZENE NOW and put it back in the flammables cabinet where it belongs.
 
-There are a few rare cases where you would use it. The main one is deuterobenzene (benzene-d6) for NMR. Toluene is not made as an NMR solvent and is not really useful due to having four hydrogen environments. Benzene, being symmetrical, only has one. It should only be used if you are absolutely desperate and have exhausted all other alternatives.
+There are a few rare cases where you would use it. The main one is deuterobenzene (benzene-d6) for NMR. Toluene is not made as an NMR solvent and is not really useful due to having four hydrogen environments. Benzene, being symmetrical, only has one. It should only be used if you are absolutely desperate and have exhausted all other alternatives. I once considered using benzene mixed with DMSO for NMR, but I never actually went past preparing the sample in a vial. This was to test the change in chemical shifts of my solvatochromic dye as polarity changed. I can't recall why I didn't use it, but probably because it is toxic and I wasn't convinced the experiment would work. You can imagine how ultra ultra cautious I was, keeping everything in the fumehood with the sash down as low as possible.
 
-Do not use it for work-ups. EVER. It is not worth the risk.
+Do not use benzene for work-ups. EVER. It is not worth the risk. I am not going to tell you what it could be useful for because I don't want you getting any ideas. If you have any ideas, get them out of your head now: they are bad ideas.
 
-I wouldn't use it for a reaction since it is no better than toluene and has a lower BP to boot. You *could* use it as a solvent that also acts as a reagent (e.g. for electrophillic aromatic substitution or CMD), but just buy the desired derivative instead of exposing yourself to benzene; you would be paying for the savings with your life.
+I wouldn't use it for a reaction solvent since it is no better than toluene and has a lower BP to boot. You *could* use it as a solvent that also acts as a reagent (e.g. for electrophillic aromatic substitution or CMD), but just buy the desired derivative instead of exposing yourself to benzene; you would be paying for the savings with your life.
 
-Don't use benzene; don't die.\
+If you are considering using benzene, ask yourself if you value your life. If the answer is yes, don't use it. If the answer is no, call Lifeline on 13 11 14.
+
+Don't use benzene; don't kill yourself.\
 Stephen
 
 **References**\

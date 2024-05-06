@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Diethyl Ether"
-subtitle: ""
+subtitle: "High as a kite"
 date:   2024-04-11 17:30:00 +1000
 author: "Stephen Franzese"
 categories: solvents
@@ -28,10 +28,15 @@ tag: solvents
 | <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|  ppm |
 | <sup>1</sup>H NMR peak in DMSO |  ppm |
 | <sup>13</sup>C NMR peaks in DMSO |  ppm |
-| Main hazard  | Carcingoenic, flammable |
+| Main hazard  | Flammable |
 
+This guy is, like, woah man. Real trippy. I always get a little loopy after spending too long with diethyl ether. This makes sense because it was historically used as an anaesthetic. It was also used historically (and, I expect, still is used) as a recreational drug. Your personal recreation is your own business, but do not huff ether in the lab. It's not so much the ether as it is that you'll probably kill yourself by doing something stupid while high. Labs are for making drugs, not using them.
 
+Diethyl ether is a solvent that I would call non-polar. You could call it polar because of the oxygen, but it's right on the border and I already think anything below pyridine is low-polar so diethyl ether is way below that already. It's the last stop before Hydrocarbonville. It is a lot like petroleum spirits (hence why pet. spirits gets called petroleum ether) and I would recommend it be used in much the same way. The only difference is that it is more polar and that oxygen gives it some special properties.
 
+While it does boil very easily (it will evaporate at room temperature), and so cannot be heated much, it is a strong Lewis acid on account of the lone pairs of electrons on the oxygen. This makes it a good choice for dissolving Grignard reagents since it forms complexes with the magnesium.
+
+Its volatility and low polarity makes it handy for work-ups. It is immiscible with water and is thus a good choice for a sep funnel if you want something more volatile than EtOAc but less toxic than DCM or chloroform.
 
 Have fun; don't die.\
 Stephen

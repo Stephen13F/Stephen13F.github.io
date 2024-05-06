@@ -28,7 +28,7 @@ tag: solvents
 | <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|  ppm |
 | <sup>1</sup>H NMR peak in DMSO |  ppm |
 | <sup>13</sup>C NMR peaks in DMSO |  ppm |
-| Main hazard  | Carcingoenic, flammable |
+| Main hazard  | Flammable |
 
 
 

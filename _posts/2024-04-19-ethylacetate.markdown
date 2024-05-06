@@ -28,7 +28,7 @@ tag: solvents
 | <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>| 21.04, 171.36, 60.49, 14.19 ppm |
 | <sup>1</sup>H NMR peak in DMSO | (s) 1.99, (q) 4.03, (t) 1.17 ppm |
 | <sup>13</sup>C NMR peaks in DMSO | 20.68, 170.31, 59.74, 14.40 ppm |
-| Main hazard  | Flammable, irritant |
+| Main hazards  | Flammable, irritant |
 
 I think ethyl acetate smells like hazelnuts. Other people say it smells like nail polish. I kind of like the smell, in small doses. It makes me a little hungry, which isn't helped by the fact it supposedly tastes sweet. In the lab, it's a well rounded solvent that can be used for most applications. I went through a bit of an ethyl acetate phase for a while because it is so handy (and not just because I liked the smell).
 

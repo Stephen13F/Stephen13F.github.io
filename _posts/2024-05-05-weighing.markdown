@@ -13,7 +13,7 @@ Weighing out reagents for a reaction is such a simple skill but there are ways t
 
 This is what you're putting the stuff in. The two basic options are weighing paper and weighing boats. I prefer weighing paper since it's easier to adjust. You should fold the square of weighing paper in half so that you get a triangle (i.e. diagonally so that the corners touch). This will create a little spout and it will let the solid slide nicely into your flask. After doing this, make two folds on either side of the spout. This will create walls that will prevent the solid from falling out as you pour.
 
-|![fold](/assets/fold.png)|
+|![fold](/assets/fold.png){: width="50%"}|
 |:---:|
 |How to fold weighing paper. It's like origami, but less fun.|
 
