@@ -38,6 +38,10 @@ While it does boil very easily (it will evaporate at room temperature), and so c
 
 Its volatility and low polarity makes it handy for work-ups. It is immiscible with water and is thus a good choice for a sep funnel if you want something more volatile than EtOAc but less toxic than DCM or chloroform.
 
+It also is immiscible with DMSO. This is rarely useful, but it once happened to me that I had tried to precipitate some dye dissolved in DMSO with ether, but ultimately just separated it out (only partially though, I think most was still in the DMSO). I never used this as an extraction method because my dyes don't survive in diethyl ether (in this case, I got it to crash out by washing with base in water, so it didn't breakdown, but I didn't want to risk it). Nicolau claims pure DMSO and diethyl ether should be miscible and that I got separation because it had ions/salts in it, but solvent miscibility charts say otherwise.
+
+Given its volatility, diethyl ether is difficult to store well in a squeeze bottle (it's a common sight to find bottles just spray out on their own after a mild jostling). Just open up and close the bottle again to release the build up of pressure.
+
 Have fun; don't die.\
 Stephen
 

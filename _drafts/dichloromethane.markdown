@@ -30,7 +30,7 @@ tag: solvents
 | <sup>13</sup>C NMR peaks in DMSO |  ppm |
 | Main hazard  | Carcingoenic, flammable |
 
-
+I hate DCM. It's personal. I have a phobia of DCM squeeze bottles on account of being sprayed with DCM more often than I would like (and I would like that to be zero times). DCM is very volatile and so requires care when using in a squeeze bottle because it will quite easily shoot out. If I see someone reach for the DCM, I jump a metre away as fast as I can.
 
 
 Have fun; don't die.\
