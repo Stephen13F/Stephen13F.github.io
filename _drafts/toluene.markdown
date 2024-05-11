@@ -24,10 +24,10 @@ tag: solvents
 | Dielectric constant |  |
 | Dipole moment|  D |
 | E<sub>T</sub>(30) value | kcal/mol |
-| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>| (s)  ppm |
-| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|  ppm |
-| <sup>1</sup>H NMR peak in DMSO |  ppm |
-| <sup>13</sup>C NMR peaks in DMSO |  ppm |
+| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>| (s) 2.36, (m) 7.17, (m) 7.25  ppm |
+| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>| 21.46, 137.89, 129.07, 128.26, 125.33 ppm |
+| <sup>1</sup>H NMR peak in DMSO | (s) 2.30, (m) 7.1, (m) 7.25 ppm |
+| <sup>13</sup>C NMR peaks in DMSO | 20.99, 137.35, 128.88, 128.18, 125.29 ppm |
 | Main hazards  | Toxic, flammable |
 
 I used to think toluol was an alternative name for phenol, or, I dunno, *P*-methylphenol or something. But it's actually toluene. The more you know. I think toluene smells warm. It's an oddly alluring yet unsettling smell and given toluene's hazards, it's not something I (or you) want to be smelling.

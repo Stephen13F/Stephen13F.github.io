@@ -24,12 +24,12 @@ tag: solvents
 | Dielectric constant |  |
 | Dipole moment|  D |
 | E<sub>T</sub>(30) value | kcal/mol |
-| <sup>1</sup>H NMR solvent residual peak | (s) ppm |
-| <sup>13</sup>C NMR solvent residual peaks | (t)  ppm |
-| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>| (s)  ppm |
-| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|  ppm |
-| <sup>1</sup>H NMR peak in DMSO |  ppm |
-| <sup>13</sup>C NMR peaks in DMSO |  ppm |
+| <sup>1</sup>H NMR solvent residual peak | (s) 7.16 ppm |
+| <sup>13</sup>C NMR solvent residual peaks | (s) 128.06 ppm |
+| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>| (s) 7.36 ppm |
+| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>| 128.37 ppm |
+| <sup>1</sup>H NMR peak in DMSO | 7.37 ppm |
+| <sup>13</sup>C NMR peaks in DMSO | 128.30 ppm |
 | Main hazards  | Carcingoenic, toxic, flammable, environmental hazard |
 
 I am warning you now: do not use benzene.
