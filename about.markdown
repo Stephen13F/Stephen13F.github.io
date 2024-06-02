@@ -24,5 +24,5 @@ I am a member of the Wong Group which is a part of [the Australian Centre of Exc
 
 <h1>Contact Details</h1>
 
-Email: stephenfranzese@gmail.com
+Email: stephenfranzese@gmail.com\
 LinkedIn: [au.linkedin.com/in/stephen-franzese-022495305]
