@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preparing NMR Samples"
-date:   2024-04-12 21:18:00 +1000
+date:   2024-06-02 23:00:00 +1000
 author: "Stephen Franzese"
 categories: general
 tags: general, NMR
