@@ -19,7 +19,6 @@ I am a member of the Wong Group which is a part of [the Australian Centre of Exc
 | *Some Reichardt's Dye I made dissolved in different solvents* |
 
 <h1>Publications</h1>
-![cover](/assets/cover.jpg){: width="55%"}\
 [Extended Reichardt's Dye — Synthesis and Solvatochromic Properties](https://doi.org/10.1002/chem.202400314)
 
 <h1>Contact Details</h1>
