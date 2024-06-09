@@ -34,9 +34,17 @@ tag: solvents
 
 Acetonitrile wishes it were methanol, but it ain't. It is one of the most polar non-HBD solvents, and probably the most polar one you will work with on a day-to-day basis. Even so, its inability to donate H-bonds means it can't quite crack the ultra polar club of the short-chain alcohols. This is not a bad thing, however, and acetonitrile is a very useful solvent.
 
-Deuterated acetonitrile is a fairly common NMR solvent. It is cheap enough to use semi-regularly, but since DMSO-d6 and CDCl<sub>3</sub> do such a good job, it's not really needed. I have never really found a situation where it has worked better than those two solvents, probably because insoluble compounds tend to be low-polarity.
+Deuterated acetonitrile is a fairly common NMR solvent. It is cheap enough to use semi-regularly, but since DMSO-d6 and CDCl<sub>3</sub> do such a good job, it's not really needed. I have never really found a situation where it has worked better than those two solvents, probably because insoluble compounds tend to be of low-polarity.
 
-The lack of an exchangeable proton is acetonitrile's biggest strength: it is the polar solvent you go to when you don't want anything that can lose a proton to interfere with your reaction. Acetonitrile is mildly basic though, so it could react with a sufficiently strong acid.
+The lack of an exchangeable proton is acetonitrile's biggest strength: it is the polar solvent you go to when you don't want anything that can lose a proton to interfere with your reaction. Acetonitrile is mildly basic though, so it could react with a sufficiently strong acid, but that is not typically a big deal.
+
+It is a very good recrystallisation solvent and has similar uses as methanol.
+
+It is water miscible, so it's not something you can use to pull organic products out of water. You can add water to it to encourage precipitation though.
+
+Another special feature is that it is a typical solvent for mass spectrometry samples.
+
+Acetonitrile is flammable, but can also be toxic if absorbed by the skin or inhaled. The reason for this toxicity is not acetonitrile itself, but the fact that the body metabolises it to form cyanide. As a result, acetonitrile poisoning is typically characterised by delayed symptoms.
 
 Have fun; don't die.\
 Stephen

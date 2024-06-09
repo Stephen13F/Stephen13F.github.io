@@ -42,7 +42,7 @@ There are a few rare cases where you would use it. The main one is deuterobenzen
 
 Do not use benzene for work-ups. EVER. It is not worth the risk. I am not going to tell you what it could be useful for because I don't want you getting any ideas. If you have any ideas, get them out of your head now: they are bad ideas.
 
-I wouldn't use it for a reaction solvent since it is no better than toluene and has a lower BP to boot. You *could* use it as a solvent that also acts as a reagent (e.g. for electrophillic aromatic substitution or CMD), but just buy the desired derivative instead of exposing yourself to benzene; you would be paying for the savings with your life.
+I wouldn't use it for a reaction solvent since it is not a lot better than toluene and has a lower BP to boot. You *could* use it as a solvent that also acts as a reagent (e.g. for electrophillic aromatic substitution or CMD), but just buy the desired derivative instead of exposing yourself to benzene; you would be paying for the savings with your life.
 
 If you are considering using benzene, ask yourself if you value your life. If the answer is yes, don't use it. If the answer is no, call Lifeline on 13 11 14.
 
@@ -53,3 +53,9 @@ Stephen
 Phyisical data obtained from: [https://www.stenutz.eu/chem/solv6.php?name=chloroform](https://www.stenutz.eu/chem/solv6.php?name=chloroform)\
 pKa from Chiang, Y., Kresge, A., J., Tang, Y., S. and Wirz, J. *Journal of the American Chemical Society*. 1984, *106*(2), 460-462. DOI: 10.1021/ja00314a055\
 NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v
+
+
+...
+
+
+If you're still reading this, I'm going to assume you are indeed desperate and so I'll tell you the actual uses of benzene.
