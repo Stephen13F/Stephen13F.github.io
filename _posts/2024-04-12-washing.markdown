@@ -32,13 +32,13 @@ You may notice that using after using fluoride-containing substances your flasks
 
 <h1>Measuring Cylinders</h1>
 
-If you just used them for solvent, just rinse them out and dry them off with acetone (rinse out chlorinated waste with alcohol first). If you used some sort of aqueous solution (e.g. NaOH) then I would advise rinsing with water first (ensure water is neutralised before disposal and don't throw toxic salts down the sink) then acetone. You probably do not need to scrub with a brush though. If you used to to measure a solution of something containing an organic compound, I would probably give it a proper full wash.
+If you just used them for solvent, just rinse them out and dry them off with acetone (rinse out chlorinated waste with alcohol first). If you used some sort of aqueous solution (e.g. NaOH, HCl) then I would advise rinsing with water first (ensure water is neutralised before disposal and don't throw toxic salts down the sink) then acetone. You probably do not need to scrub with a brush though. If you used it to measure a solution of something containing an organic compound, I would probably give it a proper full wash.
 
 <h1>Glass Frits</h1>
 
-This applies to anything with fritted glass. Wash by spraying solvent and running the vacuum to suck it down (or letting it drip through). I advise a mix of solvents of different types, but usually methanol and acetone will get used. For frits which can be attached to a vacuum, add some soapy water and pull that through then rinse with distilled water followed by acetone. Make sure you empty the flask collecting the washes before and after you use water (do not pour water into your organic waste). A good solvent to end on is petroleum spirits because it will easily evaporate (glass frits are a pain to dry with an air gun): just leave it under vacuum for a while and it should be dry.
+This applies to anything with fritted glass. Wash by spraying solvent and running the vacuum to suck it down (or pushing it through by pumping nitrogen onto it). I advise a mix of solvents of different types, but usually methanol and acetone will get used. For frits which can be attached to a vacuum, add some soapy water and pull that through then rinse with distilled water followed by acetone. Make sure you empty the flask collecting the washes before and after you use water (do not pour water into your organic waste). A good solvent to end on is petroleum spirits because it will easily evaporate (glass frits are a pain to dry with an air gun): just leave it under vacuum for a while and it should be dry.
 
-A stained frit can be cleaned by pouring some acid into it and holding the frit above a beaker overnight. The acid will slowly drip through the frit into the beaker, leaving it clean. Please use normal acid (e.g. H<sub>2</sub>SO<sub>4</sub>) before you try anything crazy like aqua regia (or worse, pirahna solution). Also please put up a notice warning people you're using acid. Acids are dangerous.
+A stained frit can be cleaned by pouring some acid into it and attaching the frit to a conical flask with a Quickfit joint. Leave it overnight and the acid will slowly drip through the frit into the flask, leaving it clean. Please use normal acid (e.g. H<sub>2</sub>SO<sub>4</sub>) before you try anything crazy like aqua regia (or worse, pirahna solution). Also please put up a notice warning people you're using acid. Acids are dangerous. Neutralise the acid in the flask and then rinse the frit with some water (probably some dissolved NaHCO<sub>3</sub> would be wise so the frit is definitely neutralised, then follow with pure water) and then acetone (after you've disposed of the water in the flask) so it dries.
 
 <h1>NMR Tubes and caps</h1>
 
@@ -52,15 +52,15 @@ Alternatively you can make your own with a cannula, a couple of adapters and a v
 
 Alternatively you just spray solvent in with a pipette or a squeeeze bottle, just be careful when using a squeeze bottle not to push the tip in too hard (is it just me, or is this section getting a bit suggestive?) or the tube will chip and become useless.
 
-I advise rinsing with the (non-deuterated) NMR solvent first. I would then rinse with methanol if I had used chloroform. Make sure to rinse out the reservoir between chlorinated and acetone washes. A final acetone rinse should do the trick, but if it's still got stuff on it then try other solvents. You could probably sonicate it if it's really bad. I've never done that before, but I think it'll be fine, just clean the tube with water, acetone and kimwipe it so nothing from the sonicator bath sticks to it.
+I advise rinsing with the (non-deuterated) NMR solvent first, or any solvent that dissolves your compound. I would then rinse with methanol if I had used chloroform. Make sure to rinse out the reservoir between chlorinated and acetone washes. A final acetone rinse should do the trick, but if it's still got stuff on it then try other solvents. You could probably sonicate it if it's really bad. I've never done that before, but I think it'll be fine, just clean the outside of the tube with water, acetone and kimwipe it so nothing from the sonicator bath sticks to it.
 
-Once the tube is clean, place it in an oven to dry. It can take a while for acetone to fully evaporate, so spectra done with very freshly cleaned tubes may show residual acetone.
+Once the tube is clean, place it in an oven to dry. It can take a while for acetone to fully evaporate, so spectra done with very freshly cleaned tubes may show residual acetone. Make sure as well to properly clean the exterior because often what looks like a dirty tube is just some stuff on the outside. A bit of water or acetone and a kimwipe will usually fix that.
 
 For NMR caps, I usually let them sit a bit in a beaker of solvent (probably acetone) and then let them dry off or blow them with an air gun. Unless you're inverting your tubes, they shouldn't be very dirty, and you might even be able to get away with not cleaning them (though if you're sharing them, you really should clean them).
 
 <h1>Spatulas and Tweezers</h1>
 
-I have said before that elbow grease is the best solvent. This is where it is most true. Rinse spatulas with acetone and while they're still wet scrub with a paper towel to get them clean. You physically pulling off the compound will be very effective. Use a different solvent if acetone doesn't work (but be safe since it'll get on your fingers). If something is still staining it then you can give it a full wash with a sponge.
+I have said before that elbow grease is the best solvent. This is where it is most true. Rinse spatulas with acetone and while they're still wet scrub with a paper towel to get them clean. You physically pulling off the compound will be very effective. Use a different solvent if acetone doesn't work (but be safe since it'll get on your fingers). If something is still staining it then you can give it a full wash with a sponge. For very serious cases, a bit of scrubbing with fine sandpaper can get rid of pretty much anything, just make sure to wipe it down with a wet paper towel to remove the filings.
 
 <h1>Stirrer Bars</h1>
 
@@ -70,7 +70,7 @@ An acetone scrub will usually do, or a good wash with a sponge if it's bad, but 
 
 Place your cut slides into a beaker of solvent and sonicate while moving them around a bit to ensure they're all well coated in solvent. Chloroform should do the job, just don't breath the vapours. Use a mix of solvents to be safe. After washing, wipe them clean with a kimwipe coated with a solvent (acetone, iso-propanol etc), then dry by blowing on them with nitrogen. Store them in a safe place, covered to keep out dust.
 
-Alternatively, there's a plasma cleaner thing.
+Alternatively, there's a plasma cleaner thing. I have never used this myself.
 
 <h1>Cuvettes</h1>
 
