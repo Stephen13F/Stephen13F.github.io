@@ -24,10 +24,6 @@ tag: solvents
 | Dielectric constant |  |
 | Dipole moment|  D |
 | E<sub>T</sub>(30) value | kcal/mol |
-| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>| (s)  ppm |
-| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|  ppm |
-| <sup>1</sup>H NMR peak in DMSO |  ppm |
-| <sup>13</sup>C NMR peaks in DMSO |  ppm |
 | Main hazard  | Flammable |
 
 This guy is, like, woah man. Real trippy. I always get a little loopy after spending too long with diethyl ether. This makes sense because it was historically used as an anaesthetic. It was also used historically (and, I expect, still is used) as a recreational drug. Your personal recreation is your own business, but do not huff ether in the lab. It's not so much the ether as it is that you'll probably kill yourself by doing something stupid while high. Labs are for making drugs, not using them.
@@ -40,9 +36,9 @@ Its volatility and low polarity makes it handy for work-ups. It is immiscible wi
 
 It also is immiscible with DMSO. This is rarely useful, but it once happened to me that I had tried to precipitate some dye dissolved in DMSO with ether, but ultimately just separated it out (only partially though, I think most was still in the DMSO). I never used this as an extraction method because my dyes don't survive in diethyl ether (in this case, I got it to crash out by washing with base in water, so it didn't breakdown, but I didn't want to risk it in future). Nicolau claims pure DMSO and diethyl ether should be miscible and that I got separation because it had ions/salts in it, but solvent miscibility charts say otherwise.
 
-It is more miscible than petroleum spirits in every other ommon solvent, which makes it easier to add to solutions to precipitate out product. On the other hand, it may not be non-polar enough to trigger precipitation, but it probably will work.
+It is more miscible than petroleum spirits in every other common solvent, which makes it easier to add to solutions to precipitate out product. On the other hand, it may not be non-polar enough to trigger precipitation, but it probably will work.
 
-Given its volatility, diethyl ether is difficult to store well in a squeeze bottle (it's a common sight to find bottles just spray out on their own after a mild jostling, or even completely unprompted, especially in hot weather). Just open up and close the bottle again to release the build up of pressure. The spilled ether will evaporate in seconds, just try not to breath it in and keep heat sources away from it.
+Given its volatility, diethyl ether is difficult to store well in a squeeze bottle (it's a common sight to find bottles just spray out on their own after a mild jostling, or even completely unprompted, especially in hot weather). Just open up and close the bottle again to release the build up of pressure. The spilled ether will evaporate in seconds, just try not to breath it in and keep heat sources away from it. Due to all this, however, I strongly advise against storing large amounts of ether in squeeze bottles outside the fumehood. I suggest, if you need it in a squeeze bottle, only fill it up when you need it and empty the remainder back into the glass bottle when you're done.
 
 Ether is more of a work-up solvent than anything else. If you just think of it as the (slightly) polar version of petroleum spirits, then you can probably understand how to use it.
 

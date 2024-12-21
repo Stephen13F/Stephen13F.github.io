@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Benzene"
-subtitle: "DO NOT USE BENZENE"
+subtitle: "Desperate times call for desperate measures"
 date:   2024-04-11 17:30:00 +1000
 author: "Stephen Franzese"
 categories: solvents
@@ -16,20 +16,14 @@ tag: solvents
 |  |  |
 | :----------------: | :-----------------: |
 | CAS number       | 	      |
-| Melting point |    <sup>o</sup>C  |
-| Boiling point |  <sup>o</sup>C |
+| Melting point |    6<sup>o</sup>C  |
+| Boiling point |  81<sup>o</sup>C |
 |      pKa      |                 |
 |    Density    |        g/ml      |
 | Vacuum for BP at 40 <sup>o</sup>C |      mbar     |
 | Dielectric constant |  |
-| Dipole moment|  D |
-| E<sub>T</sub>(30) value | kcal/mol |
-| <sup>1</sup>H NMR solvent residual peak | (s) 7.16 ppm |
-| <sup>13</sup>C NMR solvent residual peaks | (s) 128.06 ppm |
-| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>| (s) 7.36 ppm |
-| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>| 128.37 ppm |
-| <sup>1</sup>H NMR peak in DMSO | 7.37 ppm |
-| <sup>13</sup>C NMR peaks in DMSO | 128.30 ppm |
+| Dipole moment| 0.00 D |
+| E<sub>T</sub>(30) value | 34.3 kcal/mol |
 | Main hazards  | Carcingoenic, toxic, flammable, environmental hazard |
 
 I am warning you now: do not use benzene.
@@ -50,12 +44,17 @@ Don't use benzene; don't kill yourself.\
 Stephen
 
 **References**\
-Phyisical data obtained from: [https://www.stenutz.eu/chem/solv6.php?name=chloroform](https://www.stenutz.eu/chem/solv6.php?name=chloroform)\
+Phyisical data obtained from: [https://www.stenutz.eu/chem/solv6.php?name=benzene](https://www.stenutz.eu/chem/solv6.php?name=benzene)\
 pKa from Chiang, Y., Kresge, A., J., Tang, Y., S. and Wirz, J. *Journal of the American Chemical Society*. 1984, *106*(2), 460-462. DOI: 10.1021/ja00314a055\
-NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v
 
 
 ...
 
 
 If you're still reading this, I'm going to assume you are indeed desperate and so I'll tell you the actual uses of benzene.
+
+OK, so benzene is actually a really good solvent. It's somehow more polar than toluene. It's also a really good recrys solvent. There is a reason why so many old papers used it.
+
+Benzene can be used like toluene, except it has slightly different physical properties. Its boiling point, for example, is 10 degrees lower than toluene's.
+
+Essentially, you would use it as a really potent version of toluene. The main reason you won't use it (apart from the obvious health issues) is that most labs hold very little of it, or if they have a lot it's hard to buy more. You want to save it for when desperate times call for desperate measures because otherwise you won't have any for when there is a desperate time and you need that desperate measure.

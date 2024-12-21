@@ -24,12 +24,6 @@ tag: solvents
 | Dielectric constant                         | 32.60 |
 | Dipole moment                               | 2.87 D |
 | E<sub>T</sub>(30) value                     | 55.4 kcal/mol |
-| <sup>1</sup>H NMR solvent residual peak     | (quint) 3.31 ppm |
-| <sup>13</sup>C NMR solvent residual peaks   | (sept) 49.00 ppm |
-| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>  | (bs) 1.09, (s) 3.49 ppm |
-| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>| 50.41 ppm |
-| <sup>1</sup>H NMR peak in DMSO              | (bs) 4.01, (s) 3.16 ppm |
-| <sup>13</sup>C NMR peaks in DMSO            | 48.59 ppm |
 | Main hazards                                | Flammable, toxic |
 
 Methanol is a good solvent. It's very polar and generally it's the first solvent I reach for to clean away stubborn molecules after acetone. It evaporates fairly easily, but not so easily that you it'll just fly away if you leave a flask open for a minute. This makes it quite easy to work with. Due to its high polarity (and its hydrogen bonding ability) it is easily miscible with water and hygroscopic. It isn't very good to use it in a liquid-liquid separation with water because of this (I would literally never try this). It *could* possibly be used to extract from a *very* non-polar solvent (pet. spirits, hexane, heptane, pentane, etc). I doubt this would ever be useful but, hey, you never know. Maybe you could make it even more polar by adding NaCl... or NaOH to make some methoxide and water... not sure if that's a good idea and anyway, you might as well just add water at that point because you'll still need to remove the salt if your product's going into the methanol layer. *Perhaps* you have a non-polar product with impurities which are more polar, but not water soluble, but really, if methanol dissolves your product you'd probably not get great partitioning because I imagine it doesn't dissolve amazingly in hydrocarbons. This situation would be better resolved with a different purification method.
