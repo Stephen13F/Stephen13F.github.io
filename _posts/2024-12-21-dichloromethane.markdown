@@ -2,7 +2,7 @@
 layout: post
 title:  "Dichloromethane"
 subtitle: "Keep that nozzle away from me!"
-date:   2024-04-11 12:00:00 +1000
+date:   2024-12-21 12:00:00 +1000
 author: "Stephen Franzese"
 categories: solvents
 tag: solvents
