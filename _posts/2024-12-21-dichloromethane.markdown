@@ -42,5 +42,3 @@ Stephen
 
 **References**\
 Phyisical data obtained from: [https://www.stenutz.eu/chem/solv6.php?name=chloroform](https://www.stenutz.eu/chem/solv6.php?name=chloroform)\
-pKa from Chiang, Y., Kresge, A., J., Tang, Y., S. and Wirz, J. *Journal of the American Chemical Society*. 1984, *106*(2), 460-462. DOI: 10.1021/ja00314a055\
-NMR data obtained from Gottlieb, H. E., Kotlyar, V., and Nudelman, A. *The Journal of Organic Chemistry*. 1997, *62*(21), 7512-7515. DOI: 10.1021/jo971176v
