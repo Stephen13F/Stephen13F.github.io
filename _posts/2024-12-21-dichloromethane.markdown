@@ -13,7 +13,7 @@ tag: solvents
 |:---:|
 |Dichloromethane (methylenechloride, DCM)|
 
-|  |  |
+|  |   |
 | :----------------: | :-----------------: |
 | CAS number       | 	75-09-2      |
 | Melting point |    -95<sup>o</sup>C  |
