@@ -24,12 +24,6 @@ tag: solvents
 | Dielectric constant |  |
 | Dipole moment|  D |
 | E<sub>T</sub>(30) value | kcal/mol |
-| <sup>1</sup>H NMR solvent residual peak | (s) ppm |
-| <sup>13</sup>C NMR solvent residual peaks | (t)  ppm |
-| <sup>1</sup>H NMR peak in CDCl<sub>3</sub>| (s)  ppm |
-| <sup>13</sup>C NMR peaks in CDCl<sub>3</sub>|  ppm |
-| <sup>1</sup>H NMR peak in DMSO |  ppm |
-| <sup>13</sup>C NMR peaks in DMSO |  ppm |
 | Main hazard  | Flammable, toxic |
 
 Acetonitrile wishes it were methanol, but it ain't. It is one of the most polar non-HBD solvents, and probably the most polar one you will work with on a day-to-day basis. Even so, its inability to donate H-bonds means it can't quite crack the ultra polar club of the short-chain alcohols. This is not a bad thing, however, and acetonitrile is a very useful solvent.
