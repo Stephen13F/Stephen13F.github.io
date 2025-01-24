@@ -50,7 +50,6 @@ If you follow the above R<sub>f</sub> guidelines, you should be using a little o
 The diameter of the column (you can measure this by holding a ruler in front of the column rather than trying to look at it from above) and the size of the fractions you collect depend on the scale of the reaction:
 
 | Scale                 | <50 mg    | 50-300 mg | 0.3-1 g| 1-5 g | >5 g |
-| :--: |  :--: | :--: | :--: | :--: |
 |  Column diameter (mm) |   10      |   20      |  25    | 50    | 70   |
 | Fraction volume (mL)  |    1      | 4         |   7    | 12    | 20   |
 
