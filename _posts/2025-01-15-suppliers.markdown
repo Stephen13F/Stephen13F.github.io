@@ -27,7 +27,7 @@ AK Sci's website lists their stock in USD, not AUD. It took me longer to realise
 <h1>Chem-Supply</h1>
 Country: Australia
 
-Chem-Supply is where we get most of our solvents and other bulk chemicals like acids or salts. I rarely order from them directly since the Uni Melb Specialist Stores has a stock of their items which I buy through them. It is unlikely you will need anything from them that the Store doesn't stock and their range doesn't really extend to anything fancy. Even so, being Australian makes them an appealing choice for delivery times and their prices aren't too bad.
+Chem-Supply is where we get most of our solvents and other bulk chemicals like acids or salts. I rarely order from them directly since the Uni Melb Specialist Stores has a stock of their items and so I buy through them. It is unlikely you will need anything from them that the Store doesn't stock and their range doesn't really extend to anything fancy. Even so, being Australian makes them an appealing choice for delivery times and their prices aren't too bad.
 
 <h1>Strem</h1>
 Country: America
@@ -52,7 +52,7 @@ I have ordered from this company before because it was the cheapest non-AK Scien
 <h1>Matrix Scientific</h1>
 Country: America
 
-I haven't ordered from them but we've gotten chemicals from them in the past. I don't really have nything to say about them but they seem trustworthy.
+I haven't ordered from them but we've gotten chemicals from them in the past. I don't really have anything to say about them but they seem trustworthy.
 
 <h1>Ambeed</h1>
 Country: America
