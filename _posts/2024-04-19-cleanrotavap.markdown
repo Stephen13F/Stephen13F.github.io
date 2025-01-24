@@ -50,7 +50,7 @@ Do not leave a rotavap unattended. This usually ends badly*. If you must go, ple
 
 Flasks will often float due to buoyancy, but this is not a given, especially in the case of dense solvents and very full flasks. Even with a keck clip, a flask can fall into the water so please hold it in place until the vacuum has been turned on.
 
-When removing the flask, decrease the pressure before stopping spinning. Hold your hand below the neck to catch it in case it falls as the pressure decreases. Remove it only when the pressure has reached 900 mbar or above, especially if you still have liquid inside: trying to pull it out sooner will cause the liquid to shoot up into the bump guard.
+When removing the flask, increase the pressure before stopping spinning. Hold your hand below the neck to catch it in case it falls as the pressure decreases. Remove it only when the pressure has reached 900 mbar or above, especially if you still have liquid inside: trying to pull it out sooner will cause the liquid to shoot up into the bump guard.
 
 Have fun and empty the solvent trap!\
 Stephen
